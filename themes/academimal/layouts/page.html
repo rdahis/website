@@ -1,0 +1,11 @@
+
+{{ define "main" -}}
+
+{{ with .GetPage "/sections/info_for_potential_advisees.md" }}
+<hr>
+<h2 id="info">Test</h2>
+{{ .Content }}
+{{ end }}
+
+{{ .Content }}
+{{- end }}

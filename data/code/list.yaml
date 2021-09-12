@@ -1,0 +1,13 @@
+works:
+
+- title: "Cleaning the Relação Anual de Informações Sociais (RAIS) dataset on Stata, 1985-2018"
+  links:
+    - url: https://github.com/rdahis/clean_RAIS
+      text: Github Repository
+
+- title: "Template for Empirical Papers"
+  links:
+    - url: https://github.com/rdahis/main_paper
+      text: Github Repository
+  note: "This folder provides an all-encompassing working structure for empirical papers. It organizes every step of the process: merging and cleaning (several) data sets, performing analyses (tables, figures, regressions), writing the article itself and also presentations."
+

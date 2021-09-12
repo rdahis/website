@@ -1,0 +1,12 @@
+[submodule "themes/academimal"]
+	path = themes/academimal
+	url = https://github.com/anisfeld/academimal.git
+[submodule "themes/anatole"]
+	path = themes/anatole
+	url = https://github.com/lxndrblz/anatole.git
+[submodule "themes/soho"]
+	path = themes/soho
+	url = https://github.com/alexandrevicenzi/soho.git
+[submodule "themes/hugo-resume"]
+	path = themes/hugo-resume
+	url = https://github.com/eddiewebb/hugo-resume.git

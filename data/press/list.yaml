@@ -1,0 +1,23 @@
+works:
+
+- title: A covid-19 acabou com o "efeito mandante" no Brasileirão?
+  coauthors: "Eduardo Bartholomay"
+  links:
+    - url: "https://www.nexojornal.com.br/ensaio/2021/A-covid-19-acabou-com-o-%E2%80%98efeito-mandante%E2%80%99-no-Brasileir%C3%A3o"
+      text: "Nexo Jornal, Maio 2021"
+
+- title: Como salvar empregos para o Brasil pós-coronavírus
+  coauthors: "Carlos Goes"
+  links:
+    - url: "https://www1.folha.uol.com.br/mercado/2020/03/como-salvar-empregos-para-o-brasil-pos-coronavirus.shtml"
+      text: "Folha de São Paulo, 2020"
+
+- title: PhD em Economia nos EUA
+  links:
+    - url: "https://open.spotify.com/episode/1rhl7RCedUeninvjYfrKYH?si=wiR17Hk9RJGez6a3Z4jrFQ"
+      text: "Ressonâncias Podcast, 2019"
+
+- title: Educação, o Útil, o Divertido e o Inútil
+  links:
+    - url: "https://www.nexojornal.com.br/ensaio/2016/Educa%C3%A7%C3%A3o-o-%C3%BAtil-o-divertido-e-o-in%C3%BAtil"
+      text: "Nexo, 2016"

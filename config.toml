@@ -1,0 +1,29 @@
+
+title = "Ricardo Dahis"
+baseURL = "https://rdahis.github.io"
+theme = "academimal"
+languageCode = "en-us"
+
+[author]
+name = "Ricardo Dahis"
+homepage = "https://www.ricardodahis.com"
+
+[params]
+
+shortbio = "Assistant Professor, PUC-Rio"
+logo = "images/profile.png"
+
+email = "rdahis@econ.puc-rio.br"
+favicon = "/favicon.ico"
+
+[[params.handles]]
+link = "https://twitter.com/rdahis"
+name = "Twitter"
+
+[[params.handles]]
+link = "https://www.linkedin.com/in/rdahis/"
+name = "Linkedin"
+
+[[params.handles]]
+link = "https://github.com/rdahis"
+name = "GitHub"
