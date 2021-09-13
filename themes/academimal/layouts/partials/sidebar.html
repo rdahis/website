@@ -14,11 +14,11 @@
 {{ with .Site.Data.work_in_progress }}
 <p class="contactinfo"><a href="{{ "#work-in-progress" | relURL }}">Work in Progress</a></p>
 {{ end }}
-{{ with .Site.Data.code }}
-<p class="contactinfo"><a href="{{ "#code" | relURL }}">Code</a></p>
-{{ end }}
 {{ with .Site.Data.other_writing }}
 <p class="contactinfo"><a href="{{ "#other-writing" | relURL }}">Other Writing</a></p>
+{{ end }}
+{{ with .Site.Data.code }}
+<p class="contactinfo"><a href="{{ "#code" | relURL }}">Code</a></p>
 {{ end }}
 {{ with .GetPage "/sections/personal.md" }}
 <p class="lastcontactinfo"><a href="{{ "#personal" | relURL }}">Personal</a></p>

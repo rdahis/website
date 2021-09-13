@@ -1,9 +1,9 @@
 
 I am an Assistant Professor at the [Department of Economics at PUC-Rio](http://www.econ.puc-rio.br/).
 
-My research is in Development, Political Economy, and Environmental Economics, with an agenda on decentralization, public service delivery, deforestation, and racial inequality.
+My research interests lie at the intersection of Development, Politics, and Environmental Economics. I connect theory-driven questions to granular data and natural experiments to learn about the process of development in low- and middle-income countries.
 
-I have co-founded [Base dos Dados](https://basedosdados.org/), an open data repository and search engine for Brazil. It facilitates data work for academics, journalists, policy makers, and developers.
+I have co-founded [Base dos Dados](https://basedosdados.org/), a nonprofit start-up with the mission to make access to high-quality data universal in Brazil. We build tools such as a search engine and a public datalake to facilitate data work for academics, journalists, policy makers, companies, and developers.
 
 __[Curriculum Vitae](/CV.pdf)__, __[Lattes](http://lattes.cnpq.br/1688146607064348)__, __[Github](https://github.com/rdahis)__
 

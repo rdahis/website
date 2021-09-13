@@ -53,9 +53,9 @@
 {{ end }}
 {{ end }}
 
-{{ with .Site.Data.code }}
+{{ with .Site.Data.other_writing }}
 <hr>
-<h2 id="code">Code</h2>
+<h2 id="other-writing">Other Writing</h2>
 {{ range . }}
 {{ range .works }}
 {{ partial "publication.html" (dict "context" . "pid" ($scratch.Get "pubcnt")) }}
@@ -64,9 +64,9 @@
 {{ end }}
 {{ end }}
 
-{{ with .Site.Data.other_writing }}
+{{ with .Site.Data.code }}
 <hr>
-<h2 id="other-writing">Other Writing</h2>
+<h2 id="code">Code</h2>
 {{ range . }}
 {{ range .works }}
 {{ partial "publication.html" (dict "context" . "pid" ($scratch.Get "pubcnt")) }}
