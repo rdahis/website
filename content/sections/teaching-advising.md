@@ -1,6 +1,8 @@
 
 __Teaching__:
+
 ECON 2201: Grad Development Economics
+
 ECON 2701: Grad Statistics
 
 __Office Hours__:
