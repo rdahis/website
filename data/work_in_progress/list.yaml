@@ -1,5 +1,14 @@
 works:
 
+- title: "Digital Networks and the Diffusion of Political Movements"
+  coauthors:
+    - name: Joris Mueller
+      url: https://www.jorismueller.com/
+    - name: Utsav Manjeer
+      url: https://utsavmanjeer.com/
+  abstract: >
+      We exploit the staggered introduction of 3G mobile internet in Africa to examine the effect of new communication technologies on the spread of political unrest in and across countries. We design a novel empirical strategy that allows us to separate the direct effect of mobile internet on unrest from spillovers. We find that digital communication networks lead to the spread of unrest independent of physical distance. Social media constitute an important channel.
+
 - title: "Promotions, Performance, and Diversity in the Brazilian Judiciary"
   coauthors:
     - name: Laura Schiavon
