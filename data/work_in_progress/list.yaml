@@ -16,15 +16,20 @@ works:
     - name: Thiago Scot
       url: https://sites.google.com/view/thiagoscot/
 
-- title: "Killing the Forest: Assassinations and Deforestation in Brazil"
-  coauthors:
-    - name: Mariana Carvalho
-      url: https://www.maricarvalho.com
-
 - title: "Administrative Remoteness and Deforestation: Evidence from the Brazilian Amazon"
   coauthors:
     - name: João Pedro Vieira
       url: https://github.com/jpgmv1998
+
+- title: "Export-Induced Deforestation and Political Change: The Unintended Consequences of the Rise of China"
+  coauthors:
+    - name: Lei Li
+      url: https://lei-li-economics.weebly.com/
+
+- title: "Killing the Forest: Assassinations and Deforestation in Brazil"
+  coauthors:
+    - name: Mariana Carvalho
+      url: https://www.maricarvalho.com
 
 - title: "Local Procument and Firm Performance"
   coauthors:
