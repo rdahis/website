@@ -1,21 +1,5 @@
 works:
 
-- title: "Digital Networks and the Diffusion of Political Movements"
-  coauthors:
-    - name: Joris Mueller
-      url: https://www.jorismueller.com/
-    - name: Utsav Manjeer
-      url: https://utsavmanjeer.com/
-  abstract: >
-      We exploit the staggered introduction of 3G mobile internet in Africa to examine the effect of new communication technologies on the spread of political unrest in and across countries. We design a novel empirical strategy that allows us to separate the direct effect of mobile internet on unrest from spillovers. We find that digital communication networks lead to the spread of unrest independent of physical distance. Social media constitute an important channel.
-
-- title: "Promotions, Performance, and Diversity in the Brazilian Judiciary"
-  coauthors:
-    - name: Laura Schiavon
-      url: https://www.lauraschiavon.com/
-    - name: Thiago Scot
-      url: https://sites.google.com/view/thiagoscot/
-
 - title: "Administrative Remoteness and Deforestation: Evidence from the Brazilian Amazon"
   coauthors:
     - name: João Pedro Vieira
@@ -26,10 +10,12 @@ works:
     - name: Lei Li
       url: https://lei-li-economics.weebly.com/
 
-- title: "Killing the Forest: Assassinations and Deforestation in Brazil"
+- title: "Promotions, Performance, and Diversity in the Brazilian Judiciary"
   coauthors:
-    - name: Mariana Carvalho
-      url: https://www.maricarvalho.com
+    - name: Laura Schiavon
+      url: https://www.lauraschiavon.com/
+    - name: Thiago Scot
+      url: https://sites.google.com/view/thiagoscot/
 
 - title: "Local Procument and Firm Performance"
   coauthors:
@@ -37,6 +23,32 @@ works:
       url: https://sites.google.com/view/thiagoscot/
     - name: Bernardo Ricca
       url: https://bernardoricca.wixsite.com/bricca
+
+- title: "Housing Microfinance and Climate Resilience in the Philippines"
+  coauthors:
+    - name: Teevrat Garg
+      url: https://www.teevratgarg.com/
+    - name: Russell Toth
+      url: https://sites.google.com/a/cornell.edu/russelltoth/
+  links:
+    - url: "https://www.socialscienceregistry.org/trials/9124"
+      text: "AEA Registry"
+  abstract: >
+      Low-income households in the Philippines lack sufficient access to affordable and resilient housing to protect them from the physical and economic damages brought by increasingly frequent extreme weather events, such as typhoons and floods. We partner with a large microfinance NGO and an NGO focused on housing for low-income households, to evaluate a new housing microfinance product. We will run a 2x2 randomized evaluation that cross-randomizes the education component (versus no education) and the new housing loan terms (versus being offered the old housing loan terms), against a control group. The main outcomes are short-term impacts on perceptions of climate risk and resilience, knowledge and plans for house construction, and other measures of resilience. The study will create new knowledge about how to support low-income households in obtaining housing that is resilient to extreme weather events, which is relevant across a number of developing countries that are vulnerable to climate change.
+
+- title: "Digital Networks and the Diffusion of Political Movements"
+  coauthors:
+    - name: Joris Mueller
+      url: https://www.jorismueller.com/
+    - name: Utsav Manjeer
+      url: https://utsavmanjeer.com/
+  abstract: >
+      We exploit the staggered introduction of 3G mobile internet in Africa to examine the effect of new communication technologies on the spread of political unrest in and across countries. We design a novel empirical strategy that allows us to separate the direct effect of mobile internet on unrest from spillovers. We find that digital communication networks lead to the spread of unrest independent of physical distance. Social media constitute an important channel.
+
+- title: "Killing the Forest: Assassinations and Deforestation in Brazil"
+  coauthors:
+    - name: Mariana Carvalho
+      url: https://www.maricarvalho.com
 
 - title: "Family Concentration in Public and Private Organizations"
 
