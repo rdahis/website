@@ -1,5 +1,5 @@
 
-I am an Assistant Professor at the [Department of Economics at PUC-Rio](http://www.econ.puc-rio.br/).
+I am currently visiting the [Department of Economics at Brown University](https://economics.brown.edu/) during the 2022 Fall quarter. I am an Assistant Professor at the [Department of Economics at PUC-Rio](http://www.econ.puc-rio.br/).
 
 My research interests lie at the intersection of Development, Politics, and Environmental Economics. I connect theory-driven questions to granular data and natural experiments to learn about the process of development in low- and middle-income countries.
 
