@@ -10,7 +10,7 @@ homepage = "https://www.ricardodahis.com"
 [params]
 
 shortbio = "Assistant Professor, PUC-Rio"
-logo = "images/profile.png"
+logo = "images/profile.jpg"
 
 email = "rdahis@econ.puc-rio.br"
 favicon = "/favicon.ico"
