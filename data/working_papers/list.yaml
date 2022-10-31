@@ -1,4 +1,17 @@
 works:
+  
+- title: "Politicians' Age and Long-Term Policy: Evidence from the Brazilian Amazon"
+  coauthors:
+    - name: Iván de las Heras
+      url: https://twitter.com/ivanh16
+    - name: Santiago Saavedra
+      url: https://sites.google.com/view/santiago-saavedra
+  date: October 2022
+  links:
+    - url: https://osf.io/preprints/socarxiv/h5tn2
+      text: SocArXiv
+  abstract: >
+      A fundamental difficulty in policy-making is that policies often have costs today but benefits far into the future. This difficulty is particularly salient to climate change and environmental conservation policies. A critical dimension in this trade-off is the age of politicians. Younger politicians have a longer lifespan, which could lead them to weigh more future policy benefits. However, younger politicians might be more prone to show short-term economic results to climb the political ladder. We study this trade-off in the case of Brazilian mayors and deforestation, using a regression discontinuity design for close elections. We find that when a young politician is elected, there is a reduction in deforestation and greenhouse gas emissions intensity, without significant effects on municipal gross domestic product. The results also show that younger politicians allocate more budget to education and capital investment, suggesting that the time horizon aspect dominates the trade-off. These results illustrate the importance of youth political participation for long-term policy.
 
 - title: "Data Basis (Base dos Dados) - Universalizing Access to High-Quality Data"
   pdflink: "/papers/Dahis et al (2022) Data Basis - Universalizing Access to High-Quality Data.pdf"
