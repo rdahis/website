@@ -1,4 +1,4 @@
-For current and prospective students, RAs, and postdocs: please read [**this**](/working-with-me.html).
+For current and prospective students, RAs, and postdocs: please read [**this**](/working-with-me).
 
 __Office Hours (PUC-Rio community)__:
 Appointments booked [**here**](https://koalendar.com/e/porta-aberta-puc-rio).
