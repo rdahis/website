@@ -2,8 +2,8 @@
 {{ with .GetPage "/sections/contact.md" }}
 <p class="contactinfo"><a href="{{ "#contact" | relURL }}">Contact</a></p>
 {{ end }}
-{{ with .GetPage "/sections/teaching-advising.md" }}
-<p class="contactinfo"><a href="{{ "#teaching-advising" | relURL }}">Teaching and Advising</a></p>
+{{ with .GetPage "/sections/advising-teaching.md" }}
+<p class="contactinfo"><a href="{{ "#advising-teaching" | relURL }}">Advising and Teaching</a></p>
 {{ end }}
 {{ with .Site.Data.publications }}
 <p class="contactinfo"><a href="{{ "#publications" | relURL }}">Publications</a></p>

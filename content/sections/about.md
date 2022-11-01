@@ -3,7 +3,7 @@ I am currently visiting the [Department of Economics at Brown University](https:
 
 I have co-founded and lead the data team at [Data Basis (Base dos Dados)](https://basedosdados.org/), a nonprofit start-up with the mission to make access to high-quality data universal in Brazil. We build tools such as a search engine and a public datalake to facilitate data work for academics, journalists, policy makers, companies, and developers.
 
-__[Curriculum Vitae](/CV.pdf)__, __[Lattes](http://lattes.cnpq.br/1688146607064348)__, __[Github](https://github.com/rdahis)__
+CV: __[Vitae](/CV.pdf)__, __[Lattes](http://lattes.cnpq.br/1688146607064348)__, __[Github](https://github.com/rdahis)__
 
 Social Media: __[Twitter](https://twitter.com/rdahis)__, __[LinkedIn](https://www.linkedin.com/in/rdahis/)__
 
