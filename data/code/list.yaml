@@ -1,6 +1,6 @@
 works:
 
-- title: "Cleaning the Relação Anual de Informações Sociais (RAIS) dataset on Stata, 1985-2018"
+- title: "Cleaning the 'Relação Anual de Informações Sociais' (RAIS) dataset on Stata, 1985-2018"
   links:
     - url: https://github.com/rdahis/clean_RAIS
       text: Github Repository
