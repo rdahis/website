@@ -1,10 +1,13 @@
 For current and prospective students, RAs, and postdocs: please read [**this**](/working-with-me).
 
-__Office Hours (PUC-Rio community)__:
+__Advising Hours (PUC-Rio only)__:
 Appointments booked [**here**](https://koalendar.com/e/porta-aberta-puc-rio).
 
-__Office Hours (pro bono)__:
-Appointments booked [**here**](https://koalendar.com/e/porta-aberta). Only for members of under-represented groups and/or those outside Rio de Janeiro and São Paulo.
+__Office Hours (PUC-Rio only)__:
+Appointments booked [**here**](https://koalendar.com/e/porta-aberta-puc-rio).
+
+__Office Hours (for those outside Rio de Janeiro and São Paulo and/or members of under-represented groups)__:
+Appointments booked [**here**](https://koalendar.com/e/porta-aberta). Only .
 
 __Teaching__:
 
