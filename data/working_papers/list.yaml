@@ -76,17 +76,17 @@ works:
   abstract: >
       What is the impact of mobile broadband internet on children's test scores? We compare standardized test scores before and after the staggered entry of 3G into Brazil's 5,570 municipalities using a heterogeneity-robust event-study design. We find no effects of mobile internet on test scores for 5th or 9th grade students, and can reject effect sizes of 0.04 standard deviations in both math and Portuguese. Taken together, our results indicate that the arrival of high-speed mobile internet is not suf- ficient to improve educational outcomes either through direct take-up by individuals or through broader changes to the economy.
 
-- title: "Value of a Statistical Life Under Large Mortality Risk Change: Theory and an Application to COVID-19"
-  pdflink: "/papers/CD_VSL.pdf"
-  coauthors:
-    - name: Diego Cardoso
-      url: https://www.diegoscardoso.com/
+#- title: "Value of a Statistical Life Under Large Mortality Risk Change: Theory and an Application to COVID-19"
+#  pdflink: "/papers/CD_VSL.pdf"
+#  coauthors:
+#    - name: Diego Cardoso
+#      url: https://www.diegoscardoso.com/
   #journal: Under Review
-  date: August 2020
-  links:
-    - url: https://www.cnnbrasil.com.br/nacional/2020/04/22/quarentena-intensiva-traria-beneficio-de-r-298-bi-por-mes-ao-pais-diz-pesquisa
-      text: CNN Brasil
-    - url: https://mercadopopular.org/economia/os-beneficios-economicos-do-distanciamento-social/
-      text: Instituto Mercado Popular
-  abstract: >
-      Benefit analyses of mortality reduction policies typically use multiples of the value of a statistical life (VSL). This approach approximates risk premia for small changes in mortality, but inaccurately characterizes premia for large risk changes because it implies increasing marginal utility and a risk-loving attitude. We propose a method to calculate the benefits of large mortality reductions adjusting for risk aversion. We apply this method to calculate the benefits of social distancing and other mitigation strategies to combat COVID-19 in the US and 42 other countries. Our findings show that the typical approach underestimates the benefits of social distancing in the US by a factor of 4.1 and in other countries by a factor of 2.2 on average.
+#  date: August 2020
+#  links:
+#    - url: https://www.cnnbrasil.com.br/nacional/2020/04/22/quarentena-intensiva-traria-beneficio-de-r-298-bi-por-mes-ao-pais-diz-pesquisa
+#      text: CNN Brasil
+#    - url: https://mercadopopular.org/economia/os-beneficios-economicos-do-distanciamento-social/
+#      text: Instituto Mercado Popular
+#  abstract: >
+#      Benefit analyses of mortality reduction policies typically use multiples of the value of a statistical life (VSL). This approach approximates risk premia for small changes in mortality, but inaccurately characterizes premia for large risk changes because it implies increasing marginal utility and a risk-loving attitude. We propose a method to calculate the benefits of large mortality reductions adjusting for risk aversion. We apply this method to calculate the benefits of social distancing and other mitigation strategies to combat COVID-19 in the US and 42 other countries. Our findings show that the typical approach underestimates the benefits of social distancing in the US by a factor of 4.1 and in other countries by a factor of 2.2 on average.
