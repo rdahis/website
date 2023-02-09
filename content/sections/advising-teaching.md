@@ -11,6 +11,6 @@ Shedule [**here**](https://koalendar.com/e/porta-aberta).
 
 __Teaching__:
 
-ECON 2201: Grad Development Economics
+ECON 2201: Grad Development Economics ([**materials**](/teaching))
 
 ECON 2701: Grad Statistics ([**materials**](/teaching))
