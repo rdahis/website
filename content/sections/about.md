@@ -3,7 +3,7 @@ I am an Assistant Professor at the [Department of Economics at PUC-Rio](http://w
 
 My research has been published in journals such as the Review of Economics and Statistics and the Journal of Public Economics.
 
-I have co-founded and lead the data team at [Data Basis (Base dos Dados)](https://basedosdados.org/), a nonprofit start-up with the mission to make access to high-quality data universal in Brazil. We build tools such as a search engine and a public datalake to facilitate data work for academics, journalists, policy makers, companies, and developers.
+I have co-founded [Data Basis (Base dos Dados)](https://basedosdados.org/), a nonprofit start-up with the mission to make access to high-quality data universal in Brazil and internationally. We build tools such as a search engine and a public datalake to facilitate data work for academics, journalists, policy makers, companies, and developers.
 
 CV: __[Vitae](/CV.pdf)__, __[Lattes](http://lattes.cnpq.br/1688146607064348)__, __[Github](https://github.com/rdahis)__
 
