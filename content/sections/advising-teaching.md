@@ -14,3 +14,5 @@ __Teaching__:
 ECON 2201: Grad Development Economics ([**materials**](/teaching))
 
 ECON 2701: Grad Statistics ([**materials**](/teaching))
+
+ECON 1431: Introdução à Economia Aplicada
