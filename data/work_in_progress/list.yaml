@@ -1,5 +1,20 @@
 works:
 
+- title: "From Deforestation to Reforestation: The Role of General Deterrence in Changing Farmer's Behavior"
+  coauthors:
+    - name: João Pedro Vieira
+      url: https://github.com/jpgmv1998
+    - name: Juliano Assunção
+      url: https://www.econ.puc-rio.br/juliano/
+  date: March 2023
+  abstract: >
+      This paper analyzes the direct and spillover impacts of environmental sanctions on deforestation and reforestation in the Brazilian Amazon, focusing on the role of general deterrence -- defined as the update in the perceived risk of punishment. We use a difference-in-differences strategy and farm-level forest change data to identify causal effects. Findings indicate that sanctions reduce deforestation by 48% in punished farms and 21% in adjacent farms while increasing reforestation by 15% and 6.5%. The local impacts have significant aggregate implications: in a counterfactual scenario without sanctions, there would be 29% more deforestation within farms. Our findings support the general deterrence mechanism by showing that the magnitude of the impacts decreases over time as the overall commitment to forest law enforcement deteriorates and by showing that sanctions with no incapacitating components generate substantial behavioral changes. There is no evidence of spatial displacement or attempts to elude monitoring detection. The results suggest that general deterrence effects can make environmental sanctions effective in combating deforestation and promoting reforestation, even in remote areas with low punishment and fine payment rates, such as the Brazilian Amazon.
+
+- title: "Labor Unions in Politics"
+  coauthors:
+    - name: Lorenzo Lagos
+      url: https://sites.google.com/view/lorenzolagos/home
+
 - title: "Administrative Remoteness and Deforestation: Evidence from the Brazilian Amazon"
   coauthors:
     - name: João Pedro Vieira
