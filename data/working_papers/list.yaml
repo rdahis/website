@@ -1,5 +1,16 @@
 works:
 
+- title: "From Deforestation to Reforestation: The Role of General Deterrence in Changing Farmer's Behavior"
+  pdflink: "/papers/VDA_Deforestation_to_Reforestation.pdf"
+  coauthors:
+    - name: João Pedro Vieira
+      url: https://github.com/jpgmv1998
+    - name: Juliano Assunção
+      url: https://www.econ.puc-rio.br/juliano/
+  date: April 2023
+  abstract: >
+      We investigate the role of general deterrence in improving forest law enforcement in the Brazilian Amazon. Using a difference-in-differences strategy and novel farm-level data, we find that sanctions curbed deforestation and promoted reforestation among punished farmers and their neighbors. Heterogeneities reveal that even sanctions lacking incapacitation components lead to substantial behavioral changes and that farmers' responsiveness to sanctions coincides with the government's commitment to enforcement. We find no evidence of significant strategic responses regarding spatial displacement or monitoring evasion. Overall, sanctions prevented 1.6 billion tonnes of CO2 emissions between 2006-2019, equivalent to 31% of US emissions in 2021.
+
 - title: "Young Politicians and Long-Term Policy"
   pdflink: "/papers/Dahis, de las Heras, Saavedra (2023) Young Politicians and Long-Term Policy.pdf"
   coauthors:
