@@ -8,6 +8,10 @@ works:
     - name: Juliano Assunção
       url: https://www.econ.puc-rio.br/juliano/
   date: April 2023
+  links:
+    - url: https://osf.io/preprints/socarxiv/vqpkm/
+      text: SocArXiv
+  journal: Submitted
   abstract: >
       We investigate the role of general deterrence in improving forest law enforcement in the Brazilian Amazon. Using a difference-in-differences strategy and novel farm-level data, we find that sanctions curbed deforestation and promoted reforestation among punished farmers and their neighbors. Heterogeneities reveal that even sanctions lacking incapacitation components lead to substantial behavioral changes and that farmers' responsiveness to sanctions coincides with the government's commitment to enforcement. We find no evidence of significant strategic responses regarding spatial displacement or monitoring evasion. Overall, sanctions prevented 1.6 billion tonnes of CO2 emissions between 2006-2019, equivalent to 31% of US emissions in 2021.
 
@@ -19,7 +23,7 @@ works:
     - name: Santiago Saavedra
       url: https://sites.google.com/view/santiago-saavedra
   date: February 2023
-  journal: Submitted
+  #journal: Submitted
   links:
     - url: https://osf.io/preprints/socarxiv/h5tn2
       text: SocArXiv
