@@ -1,7 +1,7 @@
 
 I am an Assistant Professor at the [Department of Economics at PUC-Rio](http://www.econ.puc-rio.br/). My research interests lie at the intersection of Development, Politics, and Environmental Economics. I hold a Ph.D in Economics from Northwestern University.
 
-Later in 2022 I will join the [Department of Economics](https://www.monash.edu/business/economics) at [Monash Business School](https://www.monash.edu/business/home/) in Australia as a Senior Lecturer (a.k.a. advanced assistant professor).
+Later in 2023 I will join the [Department of Economics](https://www.monash.edu/business/economics) at [Monash Business School](https://www.monash.edu/business/home/) in Australia as a Senior Lecturer (a.k.a. advanced assistant professor).
 
 My research has been published in journals such as the Review of Economics and Statistics and the Journal of Public Economics.
 
