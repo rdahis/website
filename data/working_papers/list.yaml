@@ -1,5 +1,18 @@
 works:
 
+- title: "Decentralizing Development: Evidence from Government Splits in Brazil"
+  pdflink: "/papers/Dahis and Szerman - Decentralizing Development.pdf"
+  coauthors:
+    - name: Christiane Szerman
+      url: https://sites.google.com/view/cszerman/
+  journal: Submitted
+  date: "July 2023"
+  links:
+    - url: "https://www.bbc.com/portuguese/brasil-50402258"
+      text: "BBC Brasil"
+  abstract: >
+      Changes in political boundaries aimed at devolving power to local governments are common in many countries. We examine the economic consequences of redistricting through the creation of smaller government units. Exploiting reforms that led to sharp variations in the number of government units in Brazil, we show that voluntary redistricting increases the size of the public sector, public services delivery, and economic activity in new local governments over the long-term. These benefits are not offset by losses elsewhere and are stronger in peripheral and remote backward areas that are neglected by their parent governments. We provide evidence that the decentralization of decision-making power boosts local development in disadvantaged areas beyond simply gains in fiscal revenues.
+
 - title: "From Deforestation to Reforestation: The Role of General Deterrence in Changing Farmer's Behavior"
   pdflink: "/papers/VDA_Deforestation_to_Reforestation.pdf"
   coauthors:
@@ -29,19 +42,6 @@ works:
       text: SocArXiv
   abstract: >
       A fundamental difficulty in policy-making is that policies often have costs today but benefits far into the future. This difficulty is particularly salient to climate change and environmental conservation policy. A critical dimension in this trade-off is the age of politicians, which impacts their life expectancy, career concerns, and what education they received. We study this trade-off in the case of Brazilian mayors and environmental outcomes, using a regression discontinuity design for close elections. We find that when a young politician is elected, there is a reduction in deforestation and greenhouse gas emissions, without significant effects on municipal gross domestic product. Young politicians allocate more spending to education and reducing liabilities, suggesting that the time horizon is important. Our study of mechanisms suggests young mayors matter because they belong to a new cohort, not because of age per se.
-
-- title: "Development via Administrative Redistricting"
-  pdflink: "/papers/Dahis and Szerman - Development via Administrative Redistricting.pdf"
-  coauthors:
-    - name: Christiane Szerman
-      url: https://sites.google.com/view/cszerman/
-  #journal: Under Review
-  date: "December 2022"
-  links:
-    - url: "https://www.bbc.com/portuguese/brasil-50402258"
-      text: "BBC Brasil"
-  abstract: >
-      We study how administrative redistricting promotes local development. Exploiting a large episode of voluntary municipality splits in Brazil and a rich panel of administrative and spatial data, we compare paths of development between areas that split and those that did not. We find that splitting had broadly positive effects, with any potential loss of scale from smaller governments being at least partially compensated by extra federal transfers new municipalities received. We find that splitting led to an expansion of the public sector, improvements in public service delivery, and increases in economic activity in new municipalities. We show that autonomy and reductions to administrative distance help explain results beyond simply gains in revenue. Our findings illustrate that decentralization in form of subsidized voluntary administrative redistricting can improve public service delivery in disadvantaged areas.
 
 - title: "Changing Racial Identity in the United States, 1880-1940"
   pdflink: "/papers/DNQ_2020_0608_FINAL.pdf"
@@ -73,17 +73,3 @@ works:
   abstract: >
       What is the impact of mobile broadband internet on children's test scores? We compare standardized test scores before and after the staggered entry of 3G into Brazil's 5,570 municipalities using a heterogeneity-robust event-study design. We find no effects of mobile internet on test scores for 5th or 9th grade students, and can reject effect sizes of 0.04 standard deviations in both math and Portuguese. Taken together, our results indicate that the arrival of high-speed mobile internet is not suf- ficient to improve educational outcomes either through direct take-up by individuals or through broader changes to the economy.
 
-#- title: "Value of a Statistical Life Under Large Mortality Risk Change: Theory and an Application to COVID-19"
-#  pdflink: "/papers/CD_VSL.pdf"
-#  coauthors:
-#    - name: Diego Cardoso
-#      url: https://www.diegoscardoso.com/
-  #journal: Under Review
-#  date: August 2020
-#  links:
-#    - url: https://www.cnnbrasil.com.br/nacional/2020/04/22/quarentena-intensiva-traria-beneficio-de-r-298-bi-por-mes-ao-pais-diz-pesquisa
-#      text: CNN Brasil
-#    - url: https://mercadopopular.org/economia/os-beneficios-economicos-do-distanciamento-social/
-#      text: Instituto Mercado Popular
-#  abstract: >
-#      Benefit analyses of mortality reduction policies typically use multiples of the value of a statistical life (VSL). This approach approximates risk premia for small changes in mortality, but inaccurately characterizes premia for large risk changes because it implies increasing marginal utility and a risk-loving attitude. We propose a method to calculate the benefits of large mortality reductions adjusting for risk aversion. We apply this method to calculate the benefits of social distancing and other mitigation strategies to combat COVID-19 in the US and 42 other countries. Our findings show that the typical approach underestimates the benefits of social distancing in the US by a factor of 4.1 and in other countries by a factor of 2.2 on average.
