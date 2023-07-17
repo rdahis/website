@@ -1,7 +1,7 @@
 works:
 
 - title: "Valuing Non-marginal Mortality Risk Reductions"
-  #pdflink: "/papers/CD_VSL.pdf"
+  pdflink: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4499312
   coauthors:
     - name: Diego Cardoso
       url: https://www.diegoscardoso.com/
