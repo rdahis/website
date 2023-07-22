@@ -33,8 +33,9 @@ works:
       text: Folha de São Paulo
     - url: https://www.ipea.gov.br/portal/publicacao-item?id=e1d7fd18-d51e-4b22-b278-cd83be2be0be&highlight=WyJ0cmFuc3BvcnRlIiwiJ3RyYW5zcG9ydGUiLCJwXHUwMGZhYmxpY28iLCJwXHUwMGZhYmxpY28nIiwiJ3BcdTAwZmFibGljbyIsImdyYXR1aXRvIiwicGFydGljaXBhXHUwMGU3XHUwMGUzbyIsImVsZWl0b3JhbCIsInRyYW5zcG9ydGUgcFx1MDBmYWJsaWNvIiwidHJhbnNwb3J0ZSBwXHUwMGZhYmxpY28gZ3JhdHVpdG8iLCJwXHUwMGZhYmxpY28gZ3JhdHVpdG8iLCJwYXJ0aWNpcGFcdTAwZTdcdTAwZTNvIGVsZWl0b3JhbCJd
       text: Ipea
-  #abstract: >
-      
+  abstract: >
+      Transportation costs are an under-studied barrier to political participation. In many elections worldwide, subsidies to voter transportation are already provided or are under discussion. However, these types of incentives have not been rigorously evaluated. Here we examine possibly the world’s largest-ever intervention to lower these costs, the adoption of a fare-free public transit policy in Brazil during the 2022 national election, when about half of Brazilian voters were granted the right to use public transit for free on election days. However, while some cities adopted the benefit for both rounds of the election, others adopted it only for the second round. Using an event study design, we exploit this difference in adoption timing to examine the policy’s causal impact on voter turnout rates and human mobility levels. We find that fare-free transit increased ridership between 7.2% and 17.5% on election days, however, we estimate a precise and robust null effect of the policy on voter turnout (Coef.  0.03p.p. with standard error of 0.22p.p.). Our results illustrate that monetary transport costs may not always be a critical factor behind non-participation. Although reducing transportation costs improves access to polling places, we show that even a full transit subsidy may not be sufficient to increase voter turnout.
+
 - title: "From Deforestation to Reforestation: The Role of General Deterrence in Changing Farmer's Behavior"
   pdflink: "/papers/VDA_Deforestation_to_Reforestation.pdf"
   coauthors:
