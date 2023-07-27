@@ -7,6 +7,6 @@ __Office Hours (Monash only)__:
 Shedule [**here**](https://koalendar.com/e/dahis-office-hours).
 
 __Open Door__ (for those in Brazil or members of under-represented groups):
-Shedule [**here**](https://koalendar.com/e/dahis-open-door). -->
+Shedule [**here**](https://koalendar.com/e/dahis-open-door).
 
-[__Teaching Materials__]((/teaching))
+[__Teaching Materials__](/teaching)
