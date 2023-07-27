@@ -9,29 +9,17 @@ works:
     - name: Lucas Nascimento
     - name: Nathalia Sales
 
+- title: "Speed of Payment in Procurement Contracts: The Role of Political Connections"
+  coauthors:
+    - name: Bernardo Ricca
+      url: https://bernardoricca.wixsite.com/bricca
+    - name: Thiago Scot
+      url: https://sites.google.com/view/thiagoscot/
+
 - title: "The Labor Union-Politics Pipeline"
   coauthors:
     - name: Lorenzo Lagos
       url: https://sites.google.com/view/lorenzolagos/home
-
-- title: "Export-Induced Deforestation and Political Change: The Unintended Consequences of the Rise of China"
-  coauthors:
-    - name: Lei Li
-      url: https://lei-li-economics.weebly.com/
-
-- title: "Promotions, Performance, and Diversity in the Brazilian Judiciary"
-  coauthors:
-    - name: Laura Schiavon
-      url: https://www.lauraschiavon.com/
-    - name: Thiago Scot
-      url: https://sites.google.com/view/thiagoscot/
-
-- title: "Local Procurement and Firm Performance"
-  coauthors:
-    - name: Thiago Scot
-      url: https://sites.google.com/view/thiagoscot/
-    - name: Bernardo Ricca
-      url: https://bernardoricca.wixsite.com/bricca
 
 - title: "Housing Microfinance and Climate Resilience in the Philippines"
   coauthors:
@@ -44,6 +32,18 @@ works:
       text: "AEA RCT Registry 9124"
   abstract: >
       Low-income households in the Philippines lack sufficient access to affordable and resilient housing to protect them from the physical and economic damages brought by increasingly frequent extreme weather events, such as typhoons and floods. We partner with a large microfinance NGO and an NGO focused on housing for low-income households, to evaluate a new housing microfinance product. We will run a 2x2 randomized evaluation that cross-randomizes the education component (versus no education) and the new housing loan terms (versus being offered the old housing loan terms), against a control group. The main outcomes are short-term impacts on perceptions of climate risk and resilience, knowledge and plans for house construction, and other measures of resilience. The study will create new knowledge about how to support low-income households in obtaining housing that is resilient to extreme weather events, which is relevant across a number of developing countries that are vulnerable to climate change.
+
+- title: "Export-Induced Deforestation and Political Change: The Unintended Consequences of the Rise of China"
+  coauthors:
+    - name: Lei Li
+      url: https://lei-li-economics.weebly.com/
+
+- title: "Promotions, Performance, and Diversity in the Brazilian Judiciary"
+  coauthors:
+    - name: Laura Schiavon
+      url: https://www.lauraschiavon.com/
+    - name: Thiago Scot
+      url: https://sites.google.com/view/thiagoscot/
 
 - title: "Administrative Remoteness and Deforestation: Evidence from the Brazilian Amazon"
   coauthors:
