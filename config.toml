@@ -9,8 +9,8 @@ homepage = "https://www.ricardodahis.com"
 
 [params]
 
-shortbio = "Assistant Professor, PUC-Rio"
+shortbio = "Senior Lecturer, Monash University"
 logo = "images/profile.jpg"
 
-email = "rdahis@econ.puc-rio.br"
+email = "ricardo.dahis@monash.edu"
 favicon = "/favicon.ico"
