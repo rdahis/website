@@ -1,5 +1,20 @@
 works:
 
+- title: "From Deforestation to Reforestation: The Role of General Deterrence in Changing Farmer's Behavior"
+  pdflink: "/papers/Vieira, Dahis, Assuncao (2023) The Role of Sanctions and Spillovers in Forest Conservation.pdf"
+  coauthors:
+    - name: João Pedro Vieira
+      url: https://github.com/jpgmv1998
+    - name: Juliano Assunção
+      url: https://www.econ.puc-rio.br/juliano/
+  date: August 2023
+  links:
+    - url: https://osf.io/preprints/socarxiv/vqpkm/
+      text: SocArXiv
+  journal: Submitted
+  abstract: >
+      We study how environmental sanctions and spillovers improve forest conservation in the Brazilian Amazon. Using a difference-in-differences framework and novel farm-level data, we show that sanctions curbed deforestation and promoted reforestation among punished farmers and their neighbors. Heterogeneity analysis reveals that even sanctions with limited incapacitation potential elicited relevant behavioral changes. In particular, farmers’ responsiveness to sanctions coincided with the government’s commitment to enforcement. We do not find substantial evidence of spatial displacement or monitoring evasion. Overall, sanctions prevented 1.6 billion tons of CO2 emissions between 2006 and 2019, equivalent to 31% of US emissions in 2021.
+
 - title: "Decentralizing Development: Evidence from Government Splits"
   pdflink: "/papers/Dahis and Szerman - Decentralizing Development.pdf"
   coauthors:
@@ -35,21 +50,6 @@ works:
       text: Ipea
   abstract: >
       Transportation costs are an under-studied barrier to political participation. In many elections worldwide, subsidies to voter transportation are already provided or are under discussion. However, these types of incentives have not been rigorously evaluated. Here we examine possibly the world’s largest-ever intervention to lower these costs, the adoption of a fare-free public transit policy in Brazil during the 2022 national election, when about half of Brazilian voters were granted the right to use public transit for free on election days. However, while some cities adopted the benefit for both rounds of the election, others adopted it only for the second round. Using an event study design, we exploit this difference in adoption timing to examine the policy’s causal impact on voter turnout rates and human mobility levels. We find that fare-free transit increased ridership between 7.2% and 17.5% on election days, however, we estimate a precise and robust null effect of the policy on voter turnout (Coef.  0.03p.p. with standard error of 0.22p.p.). Our results illustrate that monetary transport costs may not always be a critical factor behind non-participation. Although reducing transportation costs improves access to polling places, we show that even a full transit subsidy may not be sufficient to increase voter turnout.
-
-- title: "From Deforestation to Reforestation: The Role of General Deterrence in Changing Farmer's Behavior"
-  pdflink: "/papers/VDA_Deforestation_to_Reforestation.pdf"
-  coauthors:
-    - name: João Pedro Vieira
-      url: https://github.com/jpgmv1998
-    - name: Juliano Assunção
-      url: https://www.econ.puc-rio.br/juliano/
-  date: April 2023
-  links:
-    - url: https://osf.io/preprints/socarxiv/vqpkm/
-      text: SocArXiv
-  #journal: Submitted
-  abstract: >
-      We investigate the role of general deterrence in improving forest law enforcement in the Brazilian Amazon. Using a difference-in-differences strategy and novel farm-level data, we find that sanctions curbed deforestation and promoted reforestation among punished farmers and their neighbors. Heterogeneities reveal that even sanctions lacking incapacitation components lead to substantial behavioral changes and that farmers' responsiveness to sanctions coincides with the government's commitment to enforcement. We find no evidence of significant strategic responses regarding spatial displacement or monitoring evasion. Overall, sanctions prevented 1.6 billion tonnes of CO2 emissions between 2006-2019, equivalent to 31% of US emissions in 2021.
 
 - title: "Young Politicians and Long-Term Policy"
   pdflink: "/papers/Dahis, de las Heras, Saavedra (2023) Young Politicians and Long-Term Policy.pdf"
