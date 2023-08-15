@@ -7,4 +7,4 @@ Affiliations: __[Data Basis](https://basedosdados.org)__, __[SoDa Labs](https://
 
 CV: __[Vitae](/CV.pdf)__, __[Lattes](http://lattes.cnpq.br/1688146607064348)__, __[Github](https://github.com/rdahis)__, __[Google Scholar](https://scholar.google.com/citations?user=iDi8BA8AAAAJ)__
 
-Social Media: __[Twitter](https://twitter.com/rdahis)__, __[LinkedIn](https://www.linkedin.com/in/rdahis/)__
+Social Networks: __[Twitter](https://twitter.com/rdahis)__, __[LinkedIn](https://www.linkedin.com/in/rdahis/)__
