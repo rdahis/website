@@ -1,5 +1,18 @@
 works:
 
+- title: "MiDES: New Data and Facts from Public Procurement and Budget Execution in Brazil"
+  #pdflink: 
+  coauthors:
+    - name: Thiago Scot
+      url: https://sites.google.com/view/thiagoscot/
+    - name: Bernardo Ricca
+      url: https://bernardoricca.wixsite.com/bricca
+    - name: Lucas Nascimento
+    - name: Nathalia Sales
+  date: August 2023
+  abstract: >
+      This paper introduces a new disaggregated and harmonized dataset on public procurement and budget execution by Brazilian subnational entities, which currently covers half of Brazilian municipalities and spans the years 2003-2021. It then uses these data to provide new stylized facts about local public finance. First, it shows that about one-quarter of government purchases are from suppliers in the same municipality and discusses its possible implications for efficiency in public purchases. Second, it creates a measure of payment delay to suppliers: close to 15\% of total payments are delayed by more than 30 days and payment timeliness is systematically correlated with local income.
+
 - title: "The Role of Sanctions and Spillovers in Forest Conservation"
   pdflink: "/papers/Vieira, Dahis, Assuncao (2023) The Role of Sanctions and Spillovers in Forest Conservation.pdf"
   coauthors:
