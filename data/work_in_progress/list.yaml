@@ -37,16 +37,18 @@ works:
       url: https://www.lauraschiavon.com/
     - name: Thiago Scot
       url: https://sites.google.com/view/thiagoscot/
-
-- title: "Administrative Remoteness and Deforestation: Evidence from the Brazilian Amazon"
-  coauthors:
-    - name: João Pedro Vieira
-      url: https://github.com/jpgmv1998
+    - name: Leopoldo Gutierre
+      url: https://economics.ubc.ca/profile/leopoldo-gutierre/
 
 - title: "Killing the Forest: Assassinations and Deforestation in Brazil"
   coauthors:
     - name: Mariana Carvalho
       url: https://www.maricarvalho.com
+
+#- title: "Administrative Remoteness and Deforestation: Evidence from the Brazilian Amazon"
+#  coauthors:
+#    - name: João Pedro Vieira
+#      url: https://github.com/jpgmv1998
 
 #- title: "Digital Networks and the Diffusion of Political Movements"
 #  coauthors:
