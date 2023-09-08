@@ -8,12 +8,12 @@ works:
     - name: Santiago Saavedra
       url: https://sites.google.com/view/santiago-saavedra
   date: September 2023
-  #journal: Submitted
+  journal: Submitted
   links:
     - url: https://osf.io/preprints/socarxiv/h5tn2
       text: SocArXiv
   abstract: >
-      Policies often entail costs today but benefits only far into the future, as in climate change mitigation. An essential aspect of this trade-off relates to the age of politicians, influencing their life expectancy, career priorities, and educational background. To explore this interplay between young politicians and policies, we concentrate on Brazilian mayors and their influence on environmental outcomes, leveraging data from closely contested elections. We find that electing a young politician causes a reduction in deforestation and greenhouse gas emissions without significant effects on local GDP. We show young politicians invest in long-term policy and hire more young bureaucrats. Our results suggest a cohort effect: young politicians matter not because of their age, but because they are part of a new generation.
+      Policies often entail costs today but benefits only far into the future, as in climate change mitigation. An essential aspect of how this trade-off is faced relates to how young are the politicians in power. We study closely contested elections in Brazil and show that young politicians reduce deforestation and greenhouse gas emissions with no significant effects on local income. We further show that young politicians invest in long-term policy and hire more young bureaucrats. Our results suggest a cohort effect: young politicians matter not because of their age, but because they are part of a new generation.
 
 - title: "MiDES: New Data and Facts from Public Procurement and Budget Execution in Brazil"
   #pdflink: 
