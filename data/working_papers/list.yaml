@@ -26,6 +26,9 @@ works:
     - name: Santiago Saavedra
       url: https://sites.google.com/view/santiago-saavedra
   date: September 2023
+  talks:
+    - name: ICDE,
+    - name: ACU Political Economy Workshop
   journal: Submitted
   links:
     - url: https://osf.io/preprints/socarxiv/h5tn2
@@ -41,6 +44,10 @@ works:
     - name: Juliano Assunção
       url: https://www.econ.puc-rio.br/juliano/
   date: August 2023
+  talks:
+    - name: Universidad de Los Andes,
+    - name: Universidad del Chile,
+    - name: RTI TREE
   links:
     - url: https://osf.io/preprints/socarxiv/vqpkm/
       text: SocArXiv
@@ -54,7 +61,41 @@ works:
     - name: Christiane Szerman
       url: https://sites.google.com/view/cszerman/
   journal: Submitted
-  date: "July 2023"
+  date: July 2023
+  talks:
+    - name: EMCON 2017,
+    - name: UCSD Human Nature Group,
+    - name: MIEDC 2018,
+    - name: UCB,
+    - name: DEVPEC 2020,
+    - name: Northwestern Applied Micro Lunch,
+    - name: Urban Economics Association 2020,
+    - name: NEUDC 2020,
+    - name: Sociedade Brasileira de Econometria (SBE),
+    - name: University of Mannheim,
+    - name: PUC-Rio,
+    - name: Universidad del Rosario,
+    - name: New Economics School,
+    - name: PACDEV 2021,
+    - name: Northwestern PE Rookie Workshop,
+    - name: BI Norwegian Business School,
+    - name: Insper,
+    - name: Applied Young Economists Workshop,
+    - name: University of Tokyo,
+    - name: LACEA 2021,
+    - name: EPGE,
+    - name: Universidade NOVA de Lisboa,
+    - name: EESP,
+    - name: Brown University,
+    - name: National University of Singapore,
+    - name: Singapore Management University,
+    - name: ASSA 2023,
+    - name: OSUS,
+    - name: CAF Buenos Aires,
+    - name: Georgetown,
+    - name: NYU,
+    - name: Johns Hopkins University,
+    - name: STEG Annual Conference NYU-AD
   links:
     - url: "https://www.bbc.com/portuguese/brasil-50402258"
       text: "BBC Brasil"
@@ -85,6 +126,8 @@ works:
       url: https://www.kellogg.northwestern.edu/faculty/qian/
   #journal: Under Review
   date: "June 2020"
+  talks:
+    - name: Economic History Association 2022
   links:
     - url: https://open.spotify.com/episode/0QluGZdvuc5lFtt2ygnEtC?si=gSSl7uggTbqXu-LU3YvRSQ
       text: The Weeds (40:45)

@@ -7,6 +7,15 @@ works:
       url: https://arthurbraganca.com/
   journal: Journal of Public Economics, Volume 215, 104753
   date: September 2022
+  talks:
+    - name: Northwestern Applied Micro Lunch,
+    - name: EDF,
+    - name: AERE 2019,
+    - name: Ridge Workshop 2021,
+    - name: LACEA 2021,
+    - name: NEUDC 2021,
+    - name: SBE 2021,
+    - name: UFJF
   links:
     - url: https://www.sciencedirect.com/science/article/pii/S0047272722001554
       text: Published version
@@ -22,6 +31,13 @@ works:
       url: https://sites.google.com/view/thiagoscot/
   journal: Accepted - Review of Economics and Statistics
   date: January 2023
+  talks:
+    - name: SBE 2019,
+    - name: SIOE 2020,
+    - name: LACEA 2020,
+    - name: USP
+    - name: NEUDC 2021,
+    - name: EESP
   links:
     - url: https://doi.org/10.1162/rest_a_01311
       text: Published version
