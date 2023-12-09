@@ -25,7 +25,7 @@ works:
 - title: "Selecting Top Bureaucrats: Admission Exams and Performance in Brazil"
   pdflink: "/papers/DSS_Selecting_Top_Bureaucrats.pdf"
   coauthors:
-    - name: Laura Schiavon
+    - name: Laura Schiavon,
       url: https://www.lauraschiavon.com/
     - name: Thiago Scot
       url: https://sites.google.com/view/thiagoscot/
@@ -49,13 +49,13 @@ works:
 - title: "Free public transit and voter turnout"
   pdflink: "/papers/Pereira et al (2023) Free public transit and voter turnout.pdf"
   coauthors:
-    - name: Rafael H. M. Pereira
+    - name: Rafael H. M. Pereira,
       url: https://www.ipea.gov.br/acessooportunidades/authors/admin/
-    - name: Renato S. Vieira
+    - name: Renato S. Vieira,
       url: http://rsvieira.com/
-    - name: Fernando Bizzarro
+    - name: Fernando Bizzarro,
       url: https://scholar.harvard.edu/fernandobizzarro/home
-    - name: Rogério J. Barbosa
+    - name: Rogério J. Barbosa,
       url: https://iesp.uerj.br/pesquisador/rogerio-jeronimo-barbosa/
     - name: Daniel Travassos Ferreira
       url: https://history.uchicago.edu/directory/daniel-travassos-ferreira
