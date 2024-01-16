@@ -1,5 +1,52 @@
 works:
 
+- title: "Decentralizing Development: Evidence from Government Splits"
+  pdflink: "/papers/Dahis and Szerman - Decentralizing Development.pdf"
+  coauthors:
+    - name: Christiane Szerman
+      url: https://sites.google.com/view/cszerman/
+  journal: Submitted
+  date: January 2024
+  talks:
+    - name: EMCON 2017,
+    - name: UCSD Human Nature Group,
+    - name: MIEDC 2018,
+    - name: UCB,
+    - name: DEVPEC 2020,
+    - name: Northwestern Applied Micro Lunch,
+    - name: Urban Economics Association 2020,
+    - name: NEUDC 2020,
+    - name: Sociedade Brasileira de Econometria (SBE),
+    - name: University of Mannheim,
+    - name: PUC-Rio,
+    - name: Universidad del Rosario,
+    - name: New Economics School,
+    - name: PACDEV 2021,
+    - name: Northwestern PE Rookie Workshop,
+    - name: BI Norwegian Business School,
+    - name: Insper,
+    - name: Applied Young Economists Workshop,
+    - name: University of Tokyo,
+    - name: LACEA 2021,
+    - name: EPGE,
+    - name: Universidade NOVA de Lisboa,
+    - name: EESP,
+    - name: Brown University,
+    - name: National University of Singapore,
+    - name: Singapore Management University,
+    - name: ASSA 2023,
+    - name: OSUS,
+    - name: CAF Buenos Aires,
+    - name: Georgetown,
+    - name: NYU,
+    - name: Johns Hopkins University,
+    - name: STEG Annual Conference NYU-AD
+  links:
+    - url: "https://www.bbc.com/portuguese/brasil-50402258"
+      text: "BBC Brasil"
+  abstract: >
+      Changes in political boundaries aimed at devolving power to local governments are common in many countries. We examine the economic consequences of redistricting through the creation of smaller government units. Exploiting reforms that led to sharp variations in the number of government units in Brazil, we show that voluntary redistricting increases the size of the public sector, public services delivery, and economic activity in new local governments over the long-term. These benefits are not offset by losses elsewhere and are stronger in peripheral and remote backward areas that are neglected by their parent governments. We provide evidence that the decentralization of decision-making power boosts local development in disadvantaged areas beyond simply gains in fiscal revenues.
+
 - title: "MiDES: New Data and Facts from Public Procurement and Budget Execution in Brazil"
   pdflink: "/papers/Dahis et al. (2023) MiDES.pdf"
   coauthors:
@@ -54,53 +101,6 @@ works:
   journal: Submitted
   abstract: >
       We study how environmental sanctions and spillovers improve forest conservation in the Brazilian Amazon. Using a difference-in-differences framework and novel farm-level data, we show that sanctions curbed deforestation and promoted reforestation among punished farmers and their neighbors. Heterogeneity analysis reveals that even sanctions with limited incapacitation potential elicited relevant behavioral changes. In particular, farmers’ responsiveness to sanctions coincided with the government’s commitment to enforcement. We do not find substantial evidence of spatial displacement or monitoring evasion. Overall, sanctions prevented 1.6 billion tons of CO2 emissions between 2006 and 2019, equivalent to 31% of US emissions in 2021.
-
-- title: "Decentralizing Development: Evidence from Government Splits"
-  pdflink: "/papers/Dahis and Szerman - Decentralizing Development.pdf"
-  coauthors:
-    - name: Christiane Szerman
-      url: https://sites.google.com/view/cszerman/
-  journal: Submitted
-  date: July 2023
-  talks:
-    - name: EMCON 2017,
-    - name: UCSD Human Nature Group,
-    - name: MIEDC 2018,
-    - name: UCB,
-    - name: DEVPEC 2020,
-    - name: Northwestern Applied Micro Lunch,
-    - name: Urban Economics Association 2020,
-    - name: NEUDC 2020,
-    - name: Sociedade Brasileira de Econometria (SBE),
-    - name: University of Mannheim,
-    - name: PUC-Rio,
-    - name: Universidad del Rosario,
-    - name: New Economics School,
-    - name: PACDEV 2021,
-    - name: Northwestern PE Rookie Workshop,
-    - name: BI Norwegian Business School,
-    - name: Insper,
-    - name: Applied Young Economists Workshop,
-    - name: University of Tokyo,
-    - name: LACEA 2021,
-    - name: EPGE,
-    - name: Universidade NOVA de Lisboa,
-    - name: EESP,
-    - name: Brown University,
-    - name: National University of Singapore,
-    - name: Singapore Management University,
-    - name: ASSA 2023,
-    - name: OSUS,
-    - name: CAF Buenos Aires,
-    - name: Georgetown,
-    - name: NYU,
-    - name: Johns Hopkins University,
-    - name: STEG Annual Conference NYU-AD
-  links:
-    - url: "https://www.bbc.com/portuguese/brasil-50402258"
-      text: "BBC Brasil"
-  abstract: >
-      Changes in political boundaries aimed at devolving power to local governments are common in many countries. We examine the economic consequences of redistricting through the creation of smaller government units. Exploiting reforms that led to sharp variations in the number of government units in Brazil, we show that voluntary redistricting increases the size of the public sector, public services delivery, and economic activity in new local governments over the long-term. These benefits are not offset by losses elsewhere and are stronger in peripheral and remote backward areas that are neglected by their parent governments. We provide evidence that the decentralization of decision-making power boosts local development in disadvantaged areas beyond simply gains in fiscal revenues.
 
 - title: "Calculating the Economic Value of Non-marginal Mortality Risk Reductions"
   pdflink: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4499312
