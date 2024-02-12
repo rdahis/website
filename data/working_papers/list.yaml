@@ -1,5 +1,23 @@
 works:
 
+- title: "Young Politicians and Long-Term Policy"
+  pdflink: "/papers/Dahis, de las Heras, Saavedra (2023) Young Politicians and Long-Term Policy.pdf"
+  coauthors:
+    - name: Iván de las Heras,
+      url: https://twitter.com/ivanh16
+    - name: Santiago Saavedra
+      url: https://sites.google.com/view/santiago-saavedra
+  date: February 2024
+  talks:
+    - name: ICDE,
+    - name: ACU Political Economy Workshop
+  journal: Submitted
+  links:
+    - url: https://osf.io/preprints/socarxiv/h5tn2
+      text: SocArXiv
+  abstract: >
+      Policies often entail costs today but benefits only far into the future, as in climate change mitigation. An  essential aspect of how this trade-off is faced relates to how young are the politicians in power. We study closely contested elections in Brazil and show that young politicians reduce deforestation and greenhouse gas emissions with no significant effects on local income. We further show that young politicians invest in long-term policy and hire more young bureaucrats. Our results suggest the importance of youth political participation for long-term policy.
+
 - title: "Decentralizing Development: Evidence from Government Splits"
   pdflink: "/papers/Dahis and Szerman - Decentralizing Development.pdf"
   coauthors:
@@ -64,24 +82,6 @@ works:
       text: Dataset at Data Basis (Base dos Dados)
   abstract: >
       This paper introduces a new disaggregated and harmonized dataset on public procurement and budget execution by Brazilian subnational entities, which currently covers half of Brazilian municipalities and spans the years 2003–21. This dataset provides key information that was previously unavailable from aggregate data, such as the identities of suppliers, details on purchases of goods and services, and granular information on the life cycle of each expenditure action. It then uses these data to provide new stylized facts about local public finance. First, it shows that about one-quarter of government purchases are locally procured and discusses implications for efficiency. Second, it demonstrates that close to 15 percent of payments exceed the 30-day threshold and that payment timeliness is systematically correlated with the income level of the municipality.
-
-- title: "Young Politicians and Long-Term Policy"
-  pdflink: "/papers/Dahis, de las Heras, Saavedra (2023) Young Politicians and Long-Term Policy.pdf"
-  coauthors:
-    - name: Iván de las Heras,
-      url: https://twitter.com/ivanh16
-    - name: Santiago Saavedra
-      url: https://sites.google.com/view/santiago-saavedra
-  date: September 2023
-  talks:
-    - name: ICDE,
-    - name: ACU Political Economy Workshop
-  journal: Submitted
-  links:
-    - url: https://osf.io/preprints/socarxiv/h5tn2
-      text: SocArXiv
-  abstract: >
-      Policies often entail costs today but benefits only far into the future, as in climate change mitigation. An essential aspect of how this trade-off is faced relates to how young are the politicians in power. We study closely contested elections in Brazil and show that young politicians reduce deforestation and greenhouse gas emissions with no significant effects on local income. We further show that young politicians invest in long-term policy and hire more young bureaucrats. Our results suggest a cohort effect: young politicians matter not because of their age, but because they are part of a new generation.
 
 - title: "The Role of Sanctions and Spillovers in Forest Conservation"
   pdflink: "/papers/Vieira, Dahis, Assuncao (2023) The Role of Sanctions and Spillovers in Forest Conservation.pdf"
