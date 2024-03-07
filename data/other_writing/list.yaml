@@ -1,5 +1,20 @@
 works:
 
+- title: "Calculating the Economic Value of Non-marginal Mortality Risk Reductions"
+  pdflink: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4499312
+  coauthors:
+    - name: Diego Cardoso
+      url: https://www.diegoscardoso.com/
+  journal: R&R Economic Letters
+  date: December 2023
+  links:
+    - url: https://www.cnnbrasil.com.br/nacional/2020/04/22/quarentena-intensiva-traria-beneficio-de-r-298-bi-por-mes-ao-pais-diz-pesquisa
+      text: CNN Brasil
+    - url: https://mercadopopular.org/economia/os-beneficios-economicos-do-distanciamento-social/
+      text: Instituto Mercado Popular
+  abstract: >
+      Cost-benefit analyses in public health typically calculate the benefits of mortality reduction interventions by multiplying the Value of a Statistical Life (VSL) and the expected decrease in fatalities. This procedure approximates the benefits of small mortality changes but is inaccurate for large risk changes because it holds constant the VSL---an estimate of a marginal rate of substitution. Building on the theoretical framework of the VSL, we outline a practical approach to calculate the benefits of non-marginal mortality reductions with empirically-calibrated compensating variations. We derive closed-form expressions that are easy to calculate and only require widely-available mortality statistics.
+
 - title: "MiDES: New Data and Facts from Public Procurement and Budget Execution in Brazil"
   pdflink: "/papers/Dahis et al. (2023) MiDES.pdf"
   coauthors:

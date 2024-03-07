@@ -84,21 +84,6 @@ works:
   abstract: >
       We study how environmental sanctions and spillovers improve forest conservation in the Brazilian Amazon. Using a difference-in-differences framework and novel farm-level data, we show that sanctions curbed deforestation and promoted reforestation among punished farmers and their neighbors. Heterogeneity analysis reveals that even sanctions with limited incapacitation potential elicited relevant behavioral changes. In particular, farmers’ responsiveness to sanctions coincided with the government’s commitment to enforcement. We do not find substantial evidence of spatial displacement or monitoring evasion. Overall, sanctions prevented 1.6 billion tons of CO2 emissions between 2006 and 2019, equivalent to 31% of US emissions in 2021.
 
-- title: "Calculating the Economic Value of Non-marginal Mortality Risk Reductions"
-  pdflink: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4499312
-  coauthors:
-    - name: Diego Cardoso
-      url: https://www.diegoscardoso.com/
-  journal: R&R Economic Letters
-  date: December 2023
-  links:
-    - url: https://www.cnnbrasil.com.br/nacional/2020/04/22/quarentena-intensiva-traria-beneficio-de-r-298-bi-por-mes-ao-pais-diz-pesquisa
-      text: CNN Brasil
-    - url: https://mercadopopular.org/economia/os-beneficios-economicos-do-distanciamento-social/
-      text: Instituto Mercado Popular
-  abstract: >
-      Cost-benefit analyses in public health typically calculate the benefits of mortality reduction interventions by multiplying the Value of a Statistical Life (VSL) and the expected decrease in fatalities. This procedure approximates the benefits of small mortality changes but is inaccurate for large risk changes because it holds constant the VSL---an estimate of a marginal rate of substitution. Building on the theoretical framework of the VSL, we outline a practical approach to calculate the benefits of non-marginal mortality reductions with empirically-calibrated compensating variations. We derive closed-form expressions that are easy to calculate and only require widely-available mortality statistics.
-
 - title: "Changing Racial Identity in the United States, 1880-1940"
   pdflink: "/papers/DNQ_2020_0608_FINAL.pdf"
   coauthors:
