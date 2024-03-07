@@ -1,5 +1,16 @@
 works:
 
+- title: "Speed of Payment in Procurement Contracts: The Role of Political Connections"
+  #pdflink: "/papers/Dahis, Ricca, Scot - Speed of Payment in Procurement Contracts.pdf"
+  coauthors:
+    - name: Bernardo Ricca,
+      url: https://bernardoricca.wixsite.com/bricca
+    - name: Thiago Scot
+      url: https://sites.google.com/view/thiagoscot/
+  date: March 2024
+  abstract: >
+      We provide evidence of a new channel through which politicians can exchange favors with campaign donors: earlier payment in procurement contracts. We exploit an electoral reform in Brazil that bans corporate contributions and partially breaks down the relationship between donors and politicians. Using a within-firm difference-in-differences identification strategy, we find that connected firms experience longer payment terms post-reform. The effect is larger in municipalities with low liquidity, where payment delays are more common, and for contracts awarded through a competitive tendering process. Our results point to the importance of designing rules that curb discretion over payment dates in government purchases.
+
 - title: "Young Politicians and Long-Term Policy"
   pdflink: "/papers/Dahis, de las Heras, Saavedra (2024) Young Politicians and Long-Term Policy.pdf"
   coauthors:
