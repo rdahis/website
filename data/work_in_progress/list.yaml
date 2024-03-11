@@ -17,10 +17,14 @@ works:
   abstract: >
       Low-income households in the Philippines lack sufficient access to affordable and resilient housing to protect them from the physical and economic damages brought by increasingly frequent extreme weather events, such as typhoons and floods. We partner with a large microfinance NGO and an NGO focused on housing for low-income households, to evaluate a new housing microfinance product. We will run a 2x2 randomized evaluation that cross-randomizes the education component (versus no education) and the new housing loan terms (versus being offered the old housing loan terms), against a control group. The main outcomes are short-term impacts on perceptions of climate risk and resilience, knowledge and plans for house construction, and other measures of resilience. The study will create new knowledge about how to support low-income households in obtaining housing that is resilient to extreme weather events, which is relevant across a number of developing countries that are vulnerable to climate change.
 
-- title: "Export-Induced Deforestation and Political Change: The Unintended Consequences of the Rise of China"
+- title: "Optimizing Workplace Environments: A Pilot Study on Thermal Comfort, Productivity, and Gender Equality"
   coauthors:
-    - name: Lei Li
-      url: https://lei-li-economics.weebly.com/
+    - name: Asadul Islam
+      url: https://users.monash.edu.au/~asaduli/
+    - name: Guido Friebel
+      url: https://www.guidofriebel.com/
+    - name: Tarannum Baigh
+      url: 
 
 - title: "Promotions, Performance, and Diversity in the Brazilian Judiciary"
   coauthors:
@@ -30,6 +34,27 @@ works:
       url: https://sites.google.com/view/thiagoscot/
     - name: Leopoldo Gutierre
       url: https://economics.ubc.ca/profile/leopoldo-gutierre/
+
+#- title: "Reinterpreting the Literature on Brazilian Corruption Audits"
+#  coauthors:
+#    - name: Martin Mattson,
+#      url: https://www.martin-mattsson.com/
+#    - name: Nathalia Sales
+#      url: 
+
+- title: "Improving labor market matching through soft skills development in technical education"
+  coauthors:
+    - name: Emily Beam,
+      url: https://sites.google.com/site/eabeam
+    - name: Laia Navarro-Sola,
+      url: https://www.laianavarrosola.com/
+    - name: Ursula Mello
+      url: https://sites.google.com/view/ursulamello/home
+
+- title: "Export-Induced Deforestation and Political Change: The Unintended Consequences of the Rise of China"
+  coauthors:
+    - name: Lei Li
+      url: https://lei-li-economics.weebly.com/
 
 - title: "Killing the Forest: Assassinations and Deforestation in Brazil"
   coauthors:
