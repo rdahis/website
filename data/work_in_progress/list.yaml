@@ -4,6 +4,9 @@ works:
   coauthors:
     - name: Lorenzo Lagos
       url: https://sites.google.com/view/lorenzolagos/home
+  links:
+    - url: "/papers/Dahis and Lagos - slides.pdf"
+      text: Slides
 
 - title: "Housing Microfinance and Climate Resilience in the Philippines"
   coauthors:
