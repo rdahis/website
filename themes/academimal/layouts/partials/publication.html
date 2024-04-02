@@ -11,6 +11,10 @@
 <p style="margin:0 0 5px;">Presented at: {{ range . }}{{ .name }} {{ end }}</p>
 {{ end }}
 
+{{ with .context.featured }}
+<p style="margin:0 0 5px;">Featured at: {{ range . }}<a href="{{ .url }}" target="blank">{{ .name }} </a>{{ end }}</p>
+{{ end }}
+
 {{ with .context.note }}<p style="margin:0 0 5px;">{{ . }}</p>{{ end }}
 {{ with .context.book }}<p style="margin:0 0 5px;"><em>{{ . }}</em></p>{{ end }}
 

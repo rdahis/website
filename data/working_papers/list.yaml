@@ -71,7 +71,7 @@ works:
     - name: NYU,
     - name: Johns Hopkins University,
     - name: STEG Annual Conference NYU-AD
-  links:
+  featured:
     - url: "https://www.bbc.com/portuguese/brasil-50402258"
       text: "BBC Brasil"
   abstract: >
@@ -88,7 +88,8 @@ works:
   talks:
     - name: Universidad de Los Andes,
     - name: Universidad del Chile,
-    - name: RTI TREE
+    - name: RTI TREE,
+    - name: University of Sydney
   links:
     - url: https://osf.io/preprints/socarxiv/vqpkm/
       text: SocArXiv
@@ -107,7 +108,7 @@ works:
   date: "June 2020"
   talks:
     - name: Economic History Association 2022
-  links:
+  featured:
     - url: https://open.spotify.com/episode/0QluGZdvuc5lFtt2ygnEtC?si=gSSl7uggTbqXu-LU3YvRSQ
       text: The Weeds (40:45)
     - url: https://insight.kellogg.northwestern.edu/article/jim-crow-era-discrimination-violence-black-men-passed-white
