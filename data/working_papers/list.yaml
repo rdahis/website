@@ -9,6 +9,9 @@ works:
       url: https://sites.google.com/view/thiagoscot/
   date: April 2024
   journal: Submitted
+  links:
+    - url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3934021
+      text: SSRN
   abstract: >
       We provide evidence of a new channel through which politicians can exchange favors with campaign donors: earlier payment in procurement contracts. We exploit an electoral reform in Brazil that bans corporate contributions and partially breaks down the relationship between donors and politicians. Using a within-firm difference-in-differences identification strategy, we find that connected firms experience longer payment terms post-reform. The effect is larger in municipalities with low liquidity, where payment delays are more common, and for contracts awarded through a competitive tendering process. Our results point to the importance of designing rules that curb discretion over payment dates in government purchases.
 
@@ -73,7 +76,7 @@ works:
     - name: STEG Annual Conference NYU-AD
   featured:
     - url: "https://www.bbc.com/portuguese/brasil-50402258"
-      text: "BBC Brasil"
+      name: "BBC Brasil"
   abstract: >
       Changes in political boundaries aimed at devolving power to local governments are common in many countries. We examine the economic consequences of redistricting through the creation of smaller government units. Exploiting reforms that led to sharp variations in the number of government units in Brazil, we show that voluntary redistricting increases the size of the public sector, public services delivery, and economic activity in new local governments over the long-term. These benefits are not offset by losses elsewhere and are stronger in peripheral and remote backward areas that are neglected by their parent governments. We provide evidence that the decentralization of decision-making power boosts local development in disadvantaged areas beyond simply gains in fiscal revenues.
 
@@ -110,9 +113,9 @@ works:
     - name: Economic History Association 2022
   featured:
     - url: https://open.spotify.com/episode/0QluGZdvuc5lFtt2ygnEtC?si=gSSl7uggTbqXu-LU3YvRSQ
-      text: The Weeds (40:45),
+      name: The Weeds (40:45),
     - url: https://insight.kellogg.northwestern.edu/article/jim-crow-era-discrimination-violence-black-men-passed-white
-      text: Kellogg Insight
+      name: Kellogg Insight
   abstract: >
       This paper documents that a large number of African American men experienced a change in racial identity to white during 1880 to 1940, while analogous changes were negligible for other races. We provide descriptive evidence that is consistent with the conventional wisdom that “passing” for white was a response to severe discrimination, and came at great personal cost. The findings suggest that contrary to traditional economic thinking, racial identity is neither entirely exogenous nor fixed over the lifetime, and responds to incentives.
 
