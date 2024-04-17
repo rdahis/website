@@ -9,4 +9,4 @@ CV: __[Vitae](/CV.pdf)__, __[Google Scholar](https://scholar.google.com/citation
 
 Social Networks: __[Twitter](https://twitter.com/rdahis)__, __[LinkedIn](https://www.linkedin.com/in/rdahis/)__
 
-__*Upcoming talks*__: UNSW, UNU-WIDER Annual Conference 2024
+__*Upcoming talks*__: UNU-WIDER Annual Conference 2024, CDES Conference
