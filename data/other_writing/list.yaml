@@ -1,5 +1,18 @@
 works:
 
+- title: "Calculating the Economic Value of Non-marginal Mortality Risk Reductions"
+  pdflink: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4499312
+  coauthors:
+    - name: Diego Cardoso
+      url: https://www.diegoscardoso.com/
+  journal: Economic Letters, Volume 237, April 2024, 111673
+  date: March 2024
+  links:
+    - url: https://www.sciencedirect.com/science/article/pii/S0165176524001563
+      text: Published version
+  abstract: >
+      Cost-benefit analyses in public health typically calculate the benefits of mortality reduction interventions by multiplying the Value of a Statistical Life (VSL) and the expected decrease in fatalities. This procedure approximates the benefits of small mortality changes but is inaccurate for large risk changes because it holds constant the VSL---an estimate of a marginal rate of substitution. Building on the theoretical framework of the VSL, we outline a practical approach to calculate the benefits of non-marginal mortality reductions with empirically-calibrated compensating variations. We derive closed-form expressions that are easy to calculate and only require widely-available mortality statistics.
+
 - title: "Free public transit and voter turnout"
   pdflink: "/papers/Pereira et al (2023) Free public transit and voter turnout.pdf"
   coauthors:
@@ -23,19 +36,6 @@ works:
   abstract: >
       Transportation costs are an under-studied barrier to political participation. In many elections worldwide, subsidies to voter transportation are already provided or are under discussion. However, these types of incentives have not been rigorously evaluated. Here we examine possibly the world’s largest-ever intervention to lower these costs, the adoption of a fare-free public transit policy in Brazil during the 2022 national election, when about half of Brazilian voters were granted the right to use public transit for free on election days. However, while some cities adopted the benefit for both rounds of the election, others adopted it only for the second round. Using an event study design, we exploit this difference in adoption timing to examine the policy’s causal impact on voter turnout rates and human mobility levels. We find that fare-free transit increased ridership between 7.2% and 17.5% on election days, however, we estimate a precise and robust null effect of the policy on voter turnout (Coef.  0.03p.p. with standard error of 0.22p.p.). Our results illustrate that monetary transport costs may not always be a critical factor behind non-participation. Although reducing transportation costs improves access to polling places, we show that even a full transit subsidy may not be sufficient to increase voter turnout.
 
-- title: "Calculating the Economic Value of Non-marginal Mortality Risk Reductions"
-  pdflink: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4499312
-  coauthors:
-    - name: Diego Cardoso
-      url: https://www.diegoscardoso.com/
-  journal: Economic Letters, Volume 237, April 2024, 111673
-  date: March 2024
-  links:
-    - url: https://www.sciencedirect.com/science/article/pii/S0165176524001563
-      text: Published version
-  abstract: >
-      Cost-benefit analyses in public health typically calculate the benefits of mortality reduction interventions by multiplying the Value of a Statistical Life (VSL) and the expected decrease in fatalities. This procedure approximates the benefits of small mortality changes but is inaccurate for large risk changes because it holds constant the VSL---an estimate of a marginal rate of substitution. Building on the theoretical framework of the VSL, we outline a practical approach to calculate the benefits of non-marginal mortality reductions with empirically-calibrated compensating variations. We derive closed-form expressions that are easy to calculate and only require widely-available mortality statistics.
-
 - title: "MiDES: New Data and Facts from Public Procurement and Budget Execution in Brazil"
   pdflink: "/papers/Dahis et al. (2023) MiDES.pdf"
   coauthors:
@@ -47,6 +47,8 @@ works:
     - name: Nathalia Sales
   date: November 2023
   links:
+    - url: https://municipal-budget-execution.github.io/mides/
+      text: Project's website
     - url: https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099456511072320917/idu0577a4ea10ff8504db6089400548fa91b30a3
       text: World Bank Policy Research working paper WPS 10598
     - url: https://basedosdados.org/dataset/d3874769-bcbd-4ece-a38a-157ba1021514
