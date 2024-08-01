@@ -47,6 +47,24 @@ works:
   abstract: >
       Changes in political boundaries aimed at devolving power to local governments are common in many countries. We examine the economic consequences of redistricting through the creation of smaller government units. Exploiting reforms that led to sharp variations in the number of government units in Brazil, we show that voluntary redistricting increases the size of the public sector, public services delivery, and economic activity in new local governments over the long-term. These benefits are not offset by losses elsewhere and are stronger in peripheral and remote backward areas that are neglected by their parent governments. We provide evidence that the decentralization of decision-making power boosts local development in disadvantaged areas beyond simply gains in fiscal revenues.
 
+- title: "Young Politicians and Long-Term Policy"
+  pdflink: "/papers/Dahis, de las Heras, Saavedra (2024) Young Politicians and Long-Term Policy.pdf"
+  coauthors:
+    - name: Iván de las Heras,
+      url: https://twitter.com/ivanh16
+    - name: Santiago Saavedra
+      url: https://sites.google.com/view/santiago-saavedra
+  date: August 2024
+  talks:
+    - name: ICDE,
+    - name: ACU Political Economy Workshop
+  #journal: Under Review
+  links:
+    - url: https://osf.io/preprints/socarxiv/h5tn2
+      text: SocArXiv
+  abstract: >
+      Policies often entail costs today but benefits far into the future, as in climate change mitigation. An  essential aspect of how this trade-off is faced relates to how young are the politicians in power. We study closely contested elections in Brazil and show that young politicians reduce deforestation and greenhouse gas emissions with no significant effects on local income. We further show that young politicians invest in long-term policy and hire more young bureaucrats. Our results suggest the importance of youth political participation for long-term policy.
+
 - title: "Speed of Payment in Procurement Contracts: The Role of Political Connections"
   pdflink: "/papers/Dahis, Ricca, Scot - Speed of Payment in Procurement Contracts.pdf"
   coauthors:
@@ -61,24 +79,6 @@ works:
       text: SSRN
   abstract: >
       We provide evidence of a new channel through which politicians can exchange favors with campaign donors: earlier payment in procurement contracts. We exploit an electoral reform in Brazil that bans corporate contributions and partially breaks down the relationship between donors and politicians. Using a within-firm difference-in-differences identification strategy, we find that connected firms experience longer payment terms post-reform. The effect is larger in municipalities with low liquidity, where payment delays are more common, and for contracts awarded through a competitive tendering process. Our results point to the importance of designing rules that curb discretion over payment dates in government purchases.
-
-- title: "Young Politicians and Long-Term Policy"
-  pdflink: "/papers/Dahis, de las Heras, Saavedra (2024) Young Politicians and Long-Term Policy.pdf"
-  coauthors:
-    - name: Iván de las Heras,
-      url: https://twitter.com/ivanh16
-    - name: Santiago Saavedra
-      url: https://sites.google.com/view/santiago-saavedra
-  date: February 2024
-  talks:
-    - name: ICDE,
-    - name: ACU Political Economy Workshop
-  journal: Under Review
-  links:
-    - url: https://osf.io/preprints/socarxiv/h5tn2
-      text: SocArXiv
-  abstract: >
-      Policies often entail costs today but benefits only far into the future, as in climate change mitigation. An  essential aspect of how this trade-off is faced relates to how young are the politicians in power. We study closely contested elections in Brazil and show that young politicians reduce deforestation and greenhouse gas emissions with no significant effects on local income. We further show that young politicians invest in long-term policy and hire more young bureaucrats. Our results suggest the importance of youth political participation for long-term policy.
 
 - title: "The Role of Sanctions and Spillovers in Forest Conservation"
   pdflink: "/papers/Vieira, Dahis, Assuncao (2023) The Role of Sanctions and Spillovers in Forest Conservation.pdf"
