@@ -8,5 +8,3 @@ Affiliations: __[Data Basis](https://basedosdados.org)__, __[SoDa Labs](https://
 CV: __[Vitae](/CV.pdf)__, __[Google Scholar](https://scholar.google.com/citations?user=iDi8BA8AAAAJ)__, __[Github](https://github.com/rdahis)__
 
 Social Networks: __[Twitter](https://twitter.com/rdahis)__, __[LinkedIn](https://www.linkedin.com/in/rdahis/)__
-
-__*Upcoming talks*__: CDES Conference
