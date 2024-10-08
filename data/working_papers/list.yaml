@@ -1,5 +1,16 @@
 works:
 
+- title: "Echoes of Terrorism: Examining the Effects of Siren Alerts Timing on Voter Preferences in Israel"
+  pdflink: "/papers/Bines, Assuncao, Dahis (2024) Echoes of Terrorism.pdf"
+  coauthors:
+    - name: Luis Bines
+    - name: Juliano Assunção
+      url: https://www.econ.puc-rio.br/juliano/
+  #journal: 
+  date: October 2024
+  abstract: >
+      This study investigates the effects of "Red Alerts", siren warnings of rocket threats, on voting behavior in Israel, focusing on the Likud party during the 2013 and 2015 elections. Using a novel dataset on Red Alert timing and location, we apply a difference-in-differences approach to compare voting patterns in areas newly exposed to Gaza's rocket range in 2014. Our analysis shows that Red Alerts on the days immediately before the election boosted Likud’s vote share by 2.5 p.p., or 15\% of the average, while earlier alerts had no significant effect, highlighting the impact of threat salience on electoral outcomes. This research advances our understanding of how security threats influence political behavior.
+
 - title: "Decentralizing Development: Evidence from Government Splits"
   pdflink: "/papers/Dahis and Szerman - Decentralizing Development.pdf"
   coauthors:
