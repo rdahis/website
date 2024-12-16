@@ -47,17 +47,6 @@ works:
   abstract: >
       Changes in political boundaries aimed at devolving power to local governments are common in many countries. We examine the economic consequences of redistricting through the creation of smaller government units. Exploiting reforms that led to sharp variations in the number of government units in Brazil, we show that voluntary redistricting increases the size of the public sector, public services delivery, and economic activity in new local governments over the long-term. These benefits are not offset by losses elsewhere and are stronger in peripheral and remote backward areas that are neglected by their parent governments. We provide evidence that the decentralization of decision-making power boosts local development in disadvantaged areas beyond simply gains in fiscal revenues.
 
-- title: "Echoes of Terrorism: Examining the Effects of Siren Alerts Timing on Voter Preferences in Israel"
-  pdflink: "/papers/Bines, Dahis, Assuncao (2024) Echoes of Terrorism.pdf"
-  coauthors:
-    - name: Luiz Bines,
-    - name: Juliano Assunção
-      url: https://www.econ.puc-rio.br/juliano/
-  #journal: 
-  date: November 2024
-  abstract: >
-      We document how electoral behavior changes based on the salience of national security threats. In the context of Israel and with novel data on the timing and location of ``Red Alerts'' - siren warnings of rocket threats - we estimate a difference-in-differences with voting patterns in areas newly exposed to Hamas' rocket range in 2014. Our analysis shows that Red Alerts on the days immediately before the election boosted Likud’s vote share by 2.9 percentage points, while earlier alerts had no effect. Polarization increases as the effects are larger where Likud support was already higher.
-
 - title: "Young Politicians and Long-Term Policy"
   pdflink: "/papers/Dahis, de las Heras, Saavedra (2024) Young Politicians and Long-Term Policy.pdf"
   coauthors:
@@ -69,12 +58,23 @@ works:
   talks:
     - name: ICDE,
     - name: ACU Political Economy Workshop
-  #journal: Under Review
+  journal: Reject & Resubmit at JAERE
   links:
     - url: https://osf.io/preprints/socarxiv/h5tn2
       text: SocArXiv
   abstract: >
       Policies often entail costs today but benefits far into the future, as in climate change mitigation. An  essential aspect of how this trade-off is faced relates to how young are the politicians in power. We study closely contested elections in Brazil and show that young politicians reduce deforestation and greenhouse gas emissions with no significant effects on local income. We further show that young politicians invest in long-term policy and hire more young bureaucrats. Our results suggest the importance of youth political participation for long-term policy.
+
+- title: "Echoes of Terrorism: Examining the Effects of Siren Alerts Timing on Voter Preferences in Israel"
+  pdflink: "/papers/Bines, Dahis, Assuncao (2024) Echoes of Terrorism.pdf"
+  coauthors:
+    - name: Luiz Bines,
+    - name: Juliano Assunção
+      url: https://www.econ.puc-rio.br/juliano/
+  #journal: 
+  date: November 2024
+  abstract: >
+      We document how electoral behavior changes based on the salience of national security threats. In the context of Israel and with novel data on the timing and location of ``Red Alerts'' - siren warnings of rocket threats - we estimate a difference-in-differences with voting patterns in areas newly exposed to Hamas' rocket range in 2014. Our analysis shows that Red Alerts on the days immediately before the election boosted Likud’s vote share by 2.9 percentage points, while earlier alerts had no effect. Polarization increases as the effects are larger where Likud support was already higher.
 
 - title: "Speed of Payment in Procurement Contracts: The Role of Political Connections"
   pdflink: "/papers/Dahis, Ricca, Scot - Speed of Payment in Procurement Contracts.pdf"
