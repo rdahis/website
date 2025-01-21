@@ -1,5 +1,20 @@
 works:
 
+- title: "Speed of Payment in Procurement Contracts: The Role of Political Connections"
+  pdflink: "/papers/Dahis, Ricca, Scot - Speed of Payment in Procurement Contracts.pdf"
+  coauthors:
+    - name: Bernardo Ricca,
+      url: https://bernardoricca.wixsite.com/bricca
+    - name: Thiago Scot
+      url: https://sites.google.com/view/thiagoscot/
+  date: January 2025
+  #journal: Submitted
+  links:
+    - url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3934021
+      text: SSRN
+  abstract: >
+      We provide evidence of a new channel through which politicians can exchange favors with campaign donors: earlier payment in procurement contracts. We exploit an electoral reform in Brazil that bans corporate contributions and partially breaks down the relationship between donors and politicians. Using a within-firm difference-in-differences identification strategy, we find that connected firms experience longer payment terms post-reform. The effect is larger in municipalities with low liquidity, where payment delays are more common, and for contracts awarded through a competitive tendering process. Our results point to the importance of designing rules that curb discretion over payment dates in government purchases.
+
 - title: "Decentralizing Development: The Economic Impact of Government Splits"
   pdflink: "/papers/Dahis and Szerman - Decentralizing Development.pdf"
   coauthors:
@@ -75,21 +90,6 @@ works:
   date: November 2024
   abstract: >
       We document how electoral behavior changes based on the salience of national security threats. In the context of Israel and with novel data on the timing and location of ``Red Alerts'' - siren warnings of rocket threats - we estimate a difference-in-differences with voting patterns in areas newly exposed to Hamas' rocket range in 2014. Our analysis shows that Red Alerts on the days immediately before the election boosted Likud’s vote share by 2.9 percentage points, while earlier alerts had no effect. Polarization increases as the effects are larger where Likud support was already higher.
-
-- title: "Speed of Payment in Procurement Contracts: The Role of Political Connections"
-  pdflink: "/papers/Dahis, Ricca, Scot - Speed of Payment in Procurement Contracts.pdf"
-  coauthors:
-    - name: Bernardo Ricca,
-      url: https://bernardoricca.wixsite.com/bricca
-    - name: Thiago Scot
-      url: https://sites.google.com/view/thiagoscot/
-  date: April 2024
-  #journal: Submitted
-  links:
-    - url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3934021
-      text: SSRN
-  abstract: >
-      We provide evidence of a new channel through which politicians can exchange favors with campaign donors: earlier payment in procurement contracts. We exploit an electoral reform in Brazil that bans corporate contributions and partially breaks down the relationship between donors and politicians. Using a within-firm difference-in-differences identification strategy, we find that connected firms experience longer payment terms post-reform. The effect is larger in municipalities with low liquidity, where payment delays are more common, and for contracts awarded through a competitive tendering process. Our results point to the importance of designing rules that curb discretion over payment dates in government purchases.
 
 - title: "The Role of Sanctions and Spillovers in Forest Conservation"
   pdflink: "/papers/Vieira, Dahis, Assuncao (2023) The Role of Sanctions and Spillovers in Forest Conservation.pdf"
