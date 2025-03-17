@@ -1,7 +1,29 @@
 works:
 
+- title: "Selecting Top Bureaucrats: Admission Exams and Performance in Brazil"
+  pdflink: https://doi.org/10.1162/rest_a_01311
+  coauthors:
+    - name: Laura Schiavon,
+      url: https://www.lauraschiavon.com/
+    - name: Thiago Scot
+      url: https://sites.google.com/view/thiagoscot/
+  journal: Review of Economics and Statistics Volume 107 Issue 2
+  date: March 2025
+  talks:
+    - name: SBE 2019,
+    - name: SIOE 2020,
+    - name: LACEA 2020,
+    - name: USP
+    - name: NEUDC 2021,
+    - name: EESP
+  # links:
+  #   - url: https://www1.folha.uol.com.br/colunas/bernardo-guimaraes/2023/06/notas-de-juizes-em-concursos-tem-relacao-com-desempenho-no-trabalho.shtml
+  #     text: Folha de São Paulo
+  abstract: >
+      In the absence of strong incentives, public service delivery crucially depends on bureaucrat selection. Despite wide adoption by governments, it is unclear whether civil service examinations reliably select for job performance. We investigate this question focusing on state judges in Brazil. Exploring monthly data on judicial output and cross-court movement, we estimate that judges account for at least 23% of the observed variation in number of cases disposed. With novel data on admission examinations, we show that judges with higher grades perform better than lower-ranked peers. Our results suggest competitive examinations can be an effective way to screen candidates.
+
 - title: "Cutting Special Interests by the Roots: Evidence from the Brazilian Amazon"
-  pdflink: "/papers/Braganca and Dahis (2022) Cutting Special Interests by the Roots.pdf"
+  pdflink: https://www.sciencedirect.com/science/article/pii/S0047272722001554
   coauthors:
     - name: Arthur Bragança
       url: https://arthurbraganca.com/
@@ -16,32 +38,5 @@ works:
     - name: NEUDC 2021,
     - name: SBE 2021,
     - name: UFJF
-  links:
-    - url: https://www.sciencedirect.com/science/article/pii/S0047272722001554
-      text: Published version
   abstract: >
       Government policies may impact economic outcomes directly but also indirectly through effects on political incentives. This paper examines the effects of the PPCDAm -- a centralized set of environmental policies that effectively raised the expected cost of illegal deforestation -- on the behavior of a powerful special-interest group operating in the Brazilian Amazon: farmers. Using different identification strategies, we document that municipalities governed by farmer politicians experienced larger declines in deforestation, greenhouse gases (GHG) emissions, and violence than municipalities governed by other politicians after this set of policies were implemented. Our findings are consistent with the PPCDAm changing political incentives in a persistent way that amplifies its impact on environmental and social outcomes.
-
-- title: "Selecting Top Bureaucrats: Admission Exams and Performance in Brazil"
-  pdflink: "/papers/DSS_Selecting_Top_Bureaucrats.pdf"
-  coauthors:
-    - name: Laura Schiavon,
-      url: https://www.lauraschiavon.com/
-    - name: Thiago Scot
-      url: https://sites.google.com/view/thiagoscot/
-  journal: Accepted - Review of Economics and Statistics
-  date: January 2023
-  talks:
-    - name: SBE 2019,
-    - name: SIOE 2020,
-    - name: LACEA 2020,
-    - name: USP
-    - name: NEUDC 2021,
-    - name: EESP
-  links:
-    - url: https://doi.org/10.1162/rest_a_01311
-      text: Published version
-    - url: https://www1.folha.uol.com.br/colunas/bernardo-guimaraes/2023/06/notas-de-juizes-em-concursos-tem-relacao-com-desempenho-no-trabalho.shtml
-      text: Folha de São Paulo
-  abstract: >
-      In the absence of strong incentives, public service delivery crucially depends on bureaucrat selection. Despite wide adoption by governments, it is unclear whether civil service examinations reliably select for job performance. We investigate this question focusing on state judges in Brazil. Exploring monthly data on judicial output and cross-court movement, we estimate that judges account for at least 23% of the observed variation in number of cases disposed. With novel data on admission examinations, we show that judges with higher grades perform better than lower-ranked peers. Our results suggest competitive examinations can be an effective way to screen candidates.
