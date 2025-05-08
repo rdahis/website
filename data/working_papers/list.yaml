@@ -1,5 +1,44 @@
 works:
 
+- title: "Young Politicians and Climate Change Mitigation"
+  pdflink: "/papers/Dahis, de las Heras, Saavedra - Young Politicians and Climate Change Mitigation.pdf"
+  coauthors:
+    - name: Iván de las Heras,
+      url: https://x.com/ivanh16
+    - name: Santiago Saavedra
+      url: https://sites.google.com/view/santiago-saavedra
+  date: May 2025
+  talks:
+    - name: ICDE,
+    - name: ACU Political Economy Workshop
+  journal: Rejected & Resubmitted at JAERE
+  links:
+    - url: https://osf.io/preprints/socarxiv/h5tn2
+      text: SocArXiv
+  abstract: >
+      Policies often entail costs today but benefits far into the future, as in the case of climate change mitigation. A key factor shaping how this intertemporal trade-off is addressed is the age of the politicians in power. We study closely contested elections in Brazil and show that when a young politician is in power there is less deforestation and lower greenhouse gas emissions, with no apparent trade-off in terms of local income. Results are partly explained by young mayors turning over the bureaucracy with younger public servants.
+
+- title: "Black-White Income Inequality During Jim Crow: Evidence from 'Passing' for White"
+  pdflink: "/papers/DMNQ_2025.pdf"
+  coauthors:
+    - name: Ludovica Mosillo,
+      url: https://www.linkedin.com/in/ludovica-mosillo-a8b816130/
+    - name: Emily Nix,
+      url: https://sites.google.com/site/emilyenix/
+    - name: Nancy Qian
+      url: https://www.kellogg.northwestern.edu/faculty/qian/
+  #journal: Under Review
+  date: "May 2025"
+  talks:
+    - name: Economic History Association 2022
+  featured:
+    - url: https://open.spotify.com/episode/0QluGZdvuc5lFtt2ygnEtC?si=gSSl7uggTbqXu-LU3YvRSQ
+      name: The Weeds (40:45),
+    - url: https://insight.kellogg.northwestern.edu/article/jim-crow-era-discrimination-violence-black-men-passed-white
+      name: Kellogg Insight
+  abstract: >
+      This paper documents several new facts about racial discrimination from 1910-1940 in the United States. Exposure to racial discrimination was positively associated with some Black men taking on White identities, resulting in large income gains and economic mobility. However, this imposed high social costs; beyond the loss of one’s Black identity, passing for White was associated with higher separation rates from a person’s community and family. Using the income gains from passing, we estimate that removing contemporaneous labor market discrimination would have increased the Black-to-White income ratio by at least 16 percentage points.
+
 - title: "Speed of Payment in Procurement Contracts: The Role of Political Connections"
   pdflink: "/papers/Dahis, Ricca, Scot - Speed of Payment in Procurement Contracts.pdf"
   coauthors:
@@ -7,8 +46,8 @@ works:
       url: https://bernardoricca.wixsite.com/bricca
     - name: Thiago Scot
       url: https://sites.google.com/view/thiagoscot/
-  date: January 2025
-  #journal: Submitted
+  date: April 2025
+  journal: Submitted
   links:
     - url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3934021
       text: SSRN
@@ -62,24 +101,6 @@ works:
   abstract: >
       Changes in political boundaries aimed at devolving power to local governments are common in many countries. We examine the economic consequences of redistricting through the creation of smaller government units. Exploiting reforms that led to sharp variations in the number of government units in Brazil, we show that voluntary redistricting increases the size of the public sector, public services delivery, and economic activity in new local governments over the long-term. These benefits are not offset by losses elsewhere and are stronger in peripheral and remote backward areas that are neglected by their parent governments. We provide evidence that the decentralization of decision-making power boosts local development in disadvantaged areas beyond simply gains in fiscal revenues.
 
-- title: "Young Politicians and Long-Term Policy"
-  pdflink: "/papers/Dahis, de las Heras, Saavedra (2024) Young Politicians and Long-Term Policy.pdf"
-  coauthors:
-    - name: Iván de las Heras,
-      url: https://x.com/ivanh16
-    - name: Santiago Saavedra
-      url: https://sites.google.com/view/santiago-saavedra
-  date: August 2024
-  talks:
-    - name: ICDE,
-    - name: ACU Political Economy Workshop
-  journal: Reject & Resubmit at JAERE
-  links:
-    - url: https://osf.io/preprints/socarxiv/h5tn2
-      text: SocArXiv
-  abstract: >
-      Policies often entail costs today but benefits far into the future, as in climate change mitigation. An  essential aspect of how this trade-off is faced relates to how young are the politicians in power. We study closely contested elections in Brazil and show that young politicians reduce deforestation and greenhouse gas emissions with no significant effects on local income. We further show that young politicians invest in long-term policy and hire more young bureaucrats. Our results suggest the importance of youth political participation for long-term policy.
-
 - title: "Echoes of Terrorism: Examining the Effects of Siren Alerts Timing on Voter Preferences in Israel"
   pdflink: "/papers/Bines, Dahis, Assuncao (2024) Echoes of Terrorism.pdf"
   coauthors:
@@ -110,25 +131,6 @@ works:
   #journal: 
   abstract: >
       We study how environmental sanctions and spillovers improve forest conservation in the Brazilian Amazon. Using a difference-in-differences framework and novel farm-level data, we show that sanctions curbed deforestation and promoted reforestation among punished farmers and their neighbors. Heterogeneity analysis reveals that even sanctions with limited incapacitation potential elicited relevant behavioral changes. In particular, farmers’ responsiveness to sanctions coincided with the government’s commitment to enforcement. We do not find substantial evidence of spatial displacement or monitoring evasion. Overall, sanctions prevented 1.6 billion tons of CO2 emissions between 2006 and 2019, equivalent to 31% of US emissions in 2021.
-
-- title: "Changing Racial Identity in the United States, 1880-1940"
-  pdflink: "/papers/DNQ_2020_0608_FINAL.pdf"
-  coauthors:
-    - name: Emily Nix,
-      url: https://sites.google.com/site/emilyenix/
-    - name: Nancy Qian
-      url: https://www.kellogg.northwestern.edu/faculty/qian/
-  #journal: Under Review
-  date: "June 2020"
-  talks:
-    - name: Economic History Association 2022
-  featured:
-    - url: https://open.spotify.com/episode/0QluGZdvuc5lFtt2ygnEtC?si=gSSl7uggTbqXu-LU3YvRSQ
-      name: The Weeds (40:45),
-    - url: https://insight.kellogg.northwestern.edu/article/jim-crow-era-discrimination-violence-black-men-passed-white
-      name: Kellogg Insight
-  abstract: >
-      This paper documents that a large number of African American men experienced a change in racial identity to white during 1880 to 1940, while analogous changes were negligible for other races. We provide descriptive evidence that is consistent with the conventional wisdom that “passing” for white was a response to severe discrimination, and came at great personal cost. The findings suggest that contrary to traditional economic thinking, racial identity is neither entirely exogenous nor fixed over the lifetime, and responds to incentives.
 
 - title: "The Impact of 3G Mobile Internet on Educational Outcomes in Brazil"
   pdflink: "/papers/Bessone, Dahis, and Ho (2021) The Impact of 3G Mobile Internet on Educational Outcomes in Brazil.pdf"
