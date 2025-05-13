@@ -5,11 +5,11 @@
 {{ with .GetPage "/sections/advising-teaching.md" }}
 <p class="contactinfo"><a href="{{ "#advising-teaching" | relURL }}">Advising and Teaching</a></p>
 {{ end }}
-{{ with .Site.Data.publications }}
-<p class="contactinfo"><a href="{{ "#publications" | relURL }}">Publications</a></p>
-{{ end }}
 {{ with .Site.Data.working_papers }}
 <p class="contactinfo"><a href="{{ "#working-papers" | relURL }}">Working Papers</a></p>
+{{ end }}
+{{ with .Site.Data.publications }}
+<p class="contactinfo"><a href="{{ "#publications" | relURL }}">Publications</a></p>
 {{ end }}
 {{ with .Site.Data.work_in_progress }}
 <p class="contactinfo"><a href="{{ "#work-in-progress" | relURL }}">Work in Progress</a></p>
