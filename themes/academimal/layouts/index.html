@@ -20,9 +20,9 @@
 {{ $scratch := newScratch }}
 {{ $scratch.Set "pubcnt" 0 }}
 
-{{ with .Site.Data.publications }}
+{{ with .Site.Data.working_papers }}
 <hr>
-<h2 id="publications">Publications</h2>
+<h2 id="working-papers">Working Papers</h2>
 {{ range . }}
 {{ range .works }}
 {{ partial "publication.html" (dict "context" . "pid" ($scratch.Get "pubcnt")) }}
@@ -31,9 +31,9 @@
 {{ end }}
 {{ end }}
 
-{{ with .Site.Data.working_papers }}
+{{ with .Site.Data.publications }}
 <hr>
-<h2 id="working-papers">Working Papers</h2>
+<h2 id="publications">Publications</h2>
 {{ range . }}
 {{ range .works }}
 {{ partial "publication.html" (dict "context" . "pid" ($scratch.Get "pubcnt")) }}
