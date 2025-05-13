@@ -1,5 +1,19 @@
 works:
 
+- title: "Reelection Incentives and Corruption: Revisiting the Evidence with LLM-Classified Audit Reports"
+  pdflink: "/papers/Dahis, Mattsson, Sales - Reelection Incentives and Corruption.pdf"
+  coauthors:
+    - name: Martin Mattsson,
+      url: https://www.martin-mattsson.com
+    - name: Nathalia Sales
+      url: https://www.linkedin.com/in/nmsales/
+  date: May 2025
+  talks:
+    - name: MWZ Text-as-Data Workshop
+  #journal: 
+  abstract: >
+      Reliable data on corruption are notoriously difficult to obtain. In this paper, we extend and reanalyze corruption data from Brazilian municipalities. We extend the data by  employing a Large Language Model (LLM) to systematically classify 2,197 corruption audit reports. We first show that correlations between the LLM-generated corruption measures and manually coded assessments are comparable to correlations among the manual datasets themselves, highlighting both the relative reliability of the LLM classification and the inherent subjectivity involved in quantifying corruption from textual sources. Using this expanded corruption dataset, we revisit key findings in the literature about the impact of reelection incentives on corruption. Our results support previous findings in the literature that reelection incentives reduce corruption, although the result is only statistically significant for one out of three measures of corruption. Furthermore, we document significant heterogeneity in the effect over time and investigate several explanations for these empirical patterns, including changing composition of politicians and increasing probability of legal penalties.
+
 - title: "Young Politicians and Climate Change Mitigation"
   pdflink: "/papers/Dahis, de las Heras, Saavedra - Young Politicians and Climate Change Mitigation.pdf"
   coauthors:
@@ -28,7 +42,7 @@ works:
     - name: Nancy Qian
       url: https://www.kellogg.northwestern.edu/faculty/qian/
   #journal: Under Review
-  date: "May 2025"
+  date: May 2025
   talks:
     - name: Economic History Association 2022
   featured:
