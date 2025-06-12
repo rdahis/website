@@ -61,7 +61,7 @@ works:
     - name: Thiago Scot
       url: https://sites.google.com/view/thiagoscot/
   date: April 2025
-  journal: Submitted
+  #journal: Submitted
   links:
     - url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3934021
       text: SSRN
