@@ -70,20 +70,17 @@ works:
       In the absence of strong incentives, public service delivery crucially depends on bureaucrat selection. Despite wide adoption by governments, it is unclear whether civil service examinations reliably select for job performance. We investigate this question focusing on state judges in Brazil. Exploring monthly data on judicial output and cross-court movement, we estimate that judges account for at least 23% of the observed variation in number of cases disposed. With novel data on admission examinations, we show that judges with higher grades perform better than lower-ranked peers. Our results suggest competitive examinations can be an effective way to screen candidates.
 
 - title: "Calculating the Economic Value of Non-marginal Mortality Risk Reductions"
-  pdflink: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4499312
+  pdflink: https://www.sciencedirect.com/science/article/pii/S0165176524001563
   coauthors:
     - name: Diego Cardoso
       url: https://www.diegoscardoso.com/
   journal: Economic Letters, Volume 237, April 2024, 111673
   date: March 2024
-  links:
-    - url: https://www.sciencedirect.com/science/article/pii/S0165176524001563
-      text: Published version
   abstract: >
       Cost-benefit analyses in public health typically calculate the benefits of mortality reduction interventions by multiplying the Value of a Statistical Life (VSL) and the expected decrease in fatalities. This procedure approximates the benefits of small mortality changes but is inaccurate for large risk changes because it holds constant the VSL---an estimate of a marginal rate of substitution. Building on the theoretical framework of the VSL, we outline a practical approach to calculate the benefits of non-marginal mortality reductions with empirically-calibrated compensating variations. We derive closed-form expressions that are easy to calculate and only require widely-available mortality statistics.
 
 - title: "Free public transit and voter turnout"
-  pdflink: "/papers/Pereira et al (2023) Free public transit and voter turnout.pdf"
+  pdflink: https://www.sciencedirect.com/science/article/pii/S0261379423001129
   coauthors:
     - name: Rafael H. M. Pereira,
       url: https://www.ipea.gov.br/acessooportunidades/authors/admin/
@@ -97,9 +94,6 @@ works:
       url: https://history.uchicago.edu/directory/daniel-travassos-ferreira
   journal: Electoral Studies, Volume 86, December 2023, 102690
   date: September 2023
-  links:
-    - url: https://www.sciencedirect.com/science/article/pii/S0261379423001129
-      text: Published version
     #- url: https://www1.folha.uol.com.br/cotidiano/2023/05/passe-livre-nas-eleicoes-nao-influenciou-comparecimento-as-urnas-diz-estudo.shtml
     #  text: Folha de São Paulo
   abstract: >
