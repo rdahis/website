@@ -69,6 +69,42 @@ works:
   abstract: >
       In the absence of strong incentives, public service delivery crucially depends on bureaucrat selection. Despite wide adoption by governments, it is unclear whether civil service examinations reliably select for job performance. We investigate this question focusing on state judges in Brazil. Exploring monthly data on judicial output and cross-court movement, we estimate that judges account for at least 23% of the observed variation in number of cases disposed. With novel data on admission examinations, we show that judges with higher grades perform better than lower-ranked peers. Our results suggest competitive examinations can be an effective way to screen candidates.
 
+- title: "Calculating the Economic Value of Non-marginal Mortality Risk Reductions"
+  pdflink: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4499312
+  coauthors:
+    - name: Diego Cardoso
+      url: https://www.diegoscardoso.com/
+  journal: Economic Letters, Volume 237, April 2024, 111673
+  date: March 2024
+  links:
+    - url: https://www.sciencedirect.com/science/article/pii/S0165176524001563
+      text: Published version
+  abstract: >
+      Cost-benefit analyses in public health typically calculate the benefits of mortality reduction interventions by multiplying the Value of a Statistical Life (VSL) and the expected decrease in fatalities. This procedure approximates the benefits of small mortality changes but is inaccurate for large risk changes because it holds constant the VSL---an estimate of a marginal rate of substitution. Building on the theoretical framework of the VSL, we outline a practical approach to calculate the benefits of non-marginal mortality reductions with empirically-calibrated compensating variations. We derive closed-form expressions that are easy to calculate and only require widely-available mortality statistics.
+
+- title: "Free public transit and voter turnout"
+  pdflink: "/papers/Pereira et al (2023) Free public transit and voter turnout.pdf"
+  coauthors:
+    - name: Rafael H. M. Pereira,
+      url: https://www.ipea.gov.br/acessooportunidades/authors/admin/
+    - name: Renato S. Vieira,
+      url: http://rsvieira.com/
+    - name: Fernando Bizzarro,
+      url: https://scholar.harvard.edu/fernandobizzarro/home
+    - name: Rogério J. Barbosa,
+      url: https://iesp.uerj.br/pesquisador/rogerio-jeronimo-barbosa/
+    - name: Daniel Travassos Ferreira
+      url: https://history.uchicago.edu/directory/daniel-travassos-ferreira
+  journal: Electoral Studies, Volume 86, December 2023, 102690
+  date: September 2023
+  links:
+    - url: https://www.sciencedirect.com/science/article/pii/S0261379423001129
+      text: Published version
+    #- url: https://www1.folha.uol.com.br/cotidiano/2023/05/passe-livre-nas-eleicoes-nao-influenciou-comparecimento-as-urnas-diz-estudo.shtml
+    #  text: Folha de São Paulo
+  abstract: >
+      Transportation costs are an under-studied barrier to political participation. In many elections worldwide, subsidies to voter transportation are already provided or are under discussion. However, these types of incentives have not been rigorously evaluated. Here we examine possibly the world’s largest-ever intervention to lower these costs, the adoption of a fare-free public transit policy in Brazil during the 2022 national election, when about half of Brazilian voters were granted the right to use public transit for free on election days. However, while some cities adopted the benefit for both rounds of the election, others adopted it only for the second round. Using an event study design, we exploit this difference in adoption timing to examine the policy’s causal impact on voter turnout rates and human mobility levels. We find that fare-free transit increased ridership between 7.2% and 17.5% on election days, however, we estimate a precise and robust null effect of the policy on voter turnout (Coef.  0.03p.p. with standard error of 0.22p.p.). Our results illustrate that monetary transport costs may not always be a critical factor behind non-participation. Although reducing transportation costs improves access to polling places, we show that even a full transit subsidy may not be sufficient to increase voter turnout.
+
 - title: "Cutting Special Interests by the Roots: Evidence from the Brazilian Amazon"
   pdflink: https://www.sciencedirect.com/science/article/pii/S0047272722001554
   coauthors:
