@@ -1,5 +1,52 @@
 works:
 
+- title: "Decentralizing Development: The Economic Impact of Government Splits"
+  pdflink: "/papers/Dahis and Szerman - Decentralizing Development.pdf"
+  coauthors:
+    - name: Christiane Szerman
+      url: https://sites.google.com/view/cszerman/
+  journal: Conditionally Accepted at AEJ Applied Economics
+  date: May 2025
+  talks:
+    - name: EMCON 2017,
+    - name: UCSD Human Nature Group,
+    - name: MIEDC 2018,
+    - name: UCB,
+    - name: DEVPEC 2020,
+    - name: Northwestern Applied Micro Lunch,
+    - name: Urban Economics Association 2020,
+    - name: NEUDC 2020,
+    - name: Sociedade Brasileira de Econometria (SBE),
+    - name: University of Mannheim,
+    - name: PUC-Rio,
+    - name: Universidad del Rosario,
+    - name: New Economics School,
+    - name: PACDEV 2021,
+    - name: Northwestern PE Rookie Workshop,
+    - name: BI Norwegian Business School,
+    - name: Insper,
+    - name: Applied Young Economists Workshop,
+    - name: University of Tokyo,
+    - name: LACEA 2021,
+    - name: EPGE,
+    - name: Universidade NOVA de Lisboa,
+    - name: EESP,
+    - name: Brown University,
+    - name: National University of Singapore,
+    - name: Singapore Management University,
+    - name: ASSA 2023,
+    - name: OSUS,
+    - name: CAF Buenos Aires,
+    - name: Georgetown,
+    - name: NYU,
+    - name: Johns Hopkins University,
+    - name: STEG Annual Conference NYU-AD
+  featured:
+    - url: "https://www.bbc.com/portuguese/brasil-50402258"
+      name: "BBC Brasil"
+  abstract: >
+      Changes in political boundaries aimed at devolving power to local governments are common in many countries. We examine the economic consequences of redistricting through the creation of smaller government units. Exploiting reforms that led to sharp variations in the number of government units in Brazil, we show that voluntary redistricting increases the size of the public sector, public services delivery, and economic activity in new local governments over the long-term. These benefits are not offset by losses elsewhere and are stronger in peripheral and remote backward areas that are neglected by their parent governments. We provide evidence that the decentralization of decision-making power boosts local development in disadvantaged areas beyond simply gains in fiscal revenues.
+
 - title: "Selecting Top Bureaucrats: Admission Exams and Performance in Brazil"
   pdflink: https://doi.org/10.1162/rest_a_01311
   coauthors:
