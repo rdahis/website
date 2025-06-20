@@ -5,6 +5,6 @@ I have co-founded [Data Basis (Base dos Dados)](https://data-basis.org/), a nonp
 
 Affiliations: __[Data Basis](https://basedosdados.org)__, __[SoDa Labs](https://www.monash.edu/business/research/our-research/impact-labs/soda-labs)__, __[CDES](https://www.monash.edu/business/cdes)__
 
-CV: __[Vitae](/CV.pdf)__, __[Google Scholar](https://scholar.google.com/citations?user=iDi8BA8AAAAJ)__, __[Github](https://github.com/rdahis)__
+CV: __[Vitae](/CV.pdf)__, __[Google Scholar](https://scholar.google.com/citations?user=iDi8BA8AAAAJ)__, __[Github](https://github.com/rdahis)__, __[ORCID](https://orcid.org/0000-0003-2346-0889)__
 
 Social Networks: __[LinkedIn](https://www.linkedin.com/in/rdahis/)__
