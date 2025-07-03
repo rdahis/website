@@ -1,5 +1,16 @@
 works:
 
+- title: "Echoes of Terrorism: How the Timing of Siren Alerts Shapes Voting"
+  pdflink: "/papers/Bines, Dahis, Assuncao - Echoes of Terrorism.pdf"
+  coauthors:
+    - name: Luiz Bines,
+    - name: Juliano Assunção
+      url: https://www.econ.puc-rio.br/juliano/
+  #journal: 
+  date: July 2025
+  abstract: >
+      This study documents how electoral behavior changes based on the salience of national security threats. Leveraging novel data on siren timing and location in Israel, we estimate a difference-in-differences design that compares localities brought into rocket range just before the 2015 election with otherwise similar areas. While almost all rockets from that period were intercepted by the Iron Dome defense system, the analysis shows that Red Alerts on the days immediately before the election boosted Likud’s vote share by 2.6 percentage points, while earlier alerts had no effect. Polarization increases as the effects are larger where Likud support was already higher. Analysis of Google search data shows that alerts increased interest in security-related topics but not in politics or parties, consistent with a salience rather than ideological mechanism.
+
 - title: "Reelection Incentives and Corruption: Revisiting the Evidence with LLM-Classified Audit Reports"
   pdflink: "/papers/Dahis, Mattsson, Sales - Reelection Incentives and Corruption.pdf"
   coauthors:
@@ -67,17 +78,6 @@ works:
       text: SSRN
   abstract: >
       We provide evidence of a new channel through which politicians can exchange favors with campaign donors: earlier payment in procurement contracts. We exploit an electoral reform in Brazil that bans corporate contributions and partially breaks down the relationship between donors and politicians. Using a within-firm difference-in-differences identification strategy, we find that connected firms experience longer payment terms post-reform. The effect is larger in municipalities with low liquidity, where payment delays are more common, and for contracts awarded through a competitive tendering process. Our results point to the importance of designing rules that curb discretion over payment dates in government purchases.
-
-- title: "Echoes of Terrorism: Examining the Effects of Siren Alerts Timing on Voter Preferences in Israel"
-  pdflink: "/papers/Bines, Dahis, Assuncao (2024) Echoes of Terrorism.pdf"
-  coauthors:
-    - name: Luiz Bines,
-    - name: Juliano Assunção
-      url: https://www.econ.puc-rio.br/juliano/
-  #journal: 
-  date: November 2024
-  abstract: >
-      We document how electoral behavior changes based on the salience of national security threats. In the context of Israel and with novel data on the timing and location of ``Red Alerts'' - siren warnings of rocket threats - we estimate a difference-in-differences with voting patterns in areas newly exposed to Hamas' rocket range in 2014. Our analysis shows that Red Alerts on the days immediately before the election boosted Likud’s vote share by 2.9 percentage points, while earlier alerts had no effect. Polarization increases as the effects are larger where Likud support was already higher.
 
 - title: "The Role of Sanctions and Spillovers in Forest Conservation"
   pdflink: "/papers/Vieira, Dahis, Assuncao (2023) The Role of Sanctions and Spillovers in Forest Conservation.pdf"
