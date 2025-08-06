@@ -11,6 +11,28 @@ works:
   abstract: >
       This study documents how electoral behavior changes based on the salience of national security threats. Leveraging novel data on siren timing and location in Israel, we estimate a difference-in-differences design that compares localities brought into rocket range just before the 2015 election with otherwise similar areas. While almost all rockets from that period were intercepted by the Iron Dome defense system, the analysis shows that Red Alerts on the days immediately before the election boosted Likud’s vote share by 2.6 percentage points, while earlier alerts had no effect. Polarization increases as the effects are larger where Likud support was already higher. Analysis of Google search data shows that alerts increased interest in security-related topics but not in politics or parties, consistent with a salience rather than ideological mechanism.
 
+- title: "Fiscal Capacity and Execution at the Local Level: New Evidence from Brazil" # MiDES: New Data and Facts from Public Procurement and Budget Execution in Brazil
+  pdflink: "/papers/Dahis et al. - MiDES.pdf"
+  coauthors:
+    - name: Thiago Scot,
+      url: https://sites.google.com/view/thiagoscot/
+    - name: Bernardo Ricca,
+      url: https://bernardoricca.wixsite.com/bricca
+    - name: Lucas Nascimento,
+    - name: Nathalia Sales
+      url: https://www.linkedin.com/in/nmsales/
+  date: June 2025
+  journal: R&R at World Bank Economic Review
+  links:
+    - url: https://municipal-budget-execution.github.io/mides/
+      text: Project's website
+    - url: https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099456511072320917/idu0577a4ea10ff8504db6089400548fa91b30a3
+      text: World Bank Policy Research working paper WPS 10598
+    - url: https://basedosdados.org/dataset/d3874769-bcbd-4ece-a38a-157ba1021514
+      text: Dataset at Data Basis (Base dos Dados)
+  abstract: >
+      This paper introduces a new disaggregated and harmonized dataset on public procurement and budget execution by Brazilian subnational entities, which currently covers half of Brazilian municipalities and spans the years 2003–21. This dataset provides key information that was previously unavailable from aggregate data, such as the identities of suppliers, details on purchases of goods and services, and granular information on the life cycle of each expenditure action. It then uses these data to provide new stylized facts about local public finance. First, it shows that about one-quarter of government purchases are locally procured and discusses implications for efficiency. Second, it demonstrates that close to 15 percent of payments exceed the 30-day threshold and that payment timeliness is systematically correlated with the income level of the municipality.
+
 - title: "Reelection Incentives and Corruption: Revisiting the Evidence with LLM-Classified Audit Reports"
   pdflink: "/papers/Dahis, Mattsson, Sales - Reelection Incentives and Corruption.pdf"
   coauthors:
