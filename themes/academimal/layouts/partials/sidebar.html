@@ -1,10 +1,4 @@
 <p class="contactinfo"><a href="{{ "#bio" | relURL }}">Bio</a></p>
-{{ with .GetPage "/sections/contact.md" }}
-<p class="contactinfo"><a href="{{ "#contact" | relURL }}">Contact</a></p>
-{{ end }}
-{{ with .GetPage "/sections/advising-teaching.md" }}
-<p class="contactinfo"><a href="{{ "#advising-teaching" | relURL }}">Advising and Teaching</a></p>
-{{ end }}
 {{ with .Site.Data.working_papers }}
 <p class="contactinfo"><a href="{{ "#working-papers" | relURL }}">Working Papers</a></p>
 {{ end }}
@@ -19,6 +13,12 @@
 {{ end }}
 {{ with .Site.Data.code }}
 <p class="contactinfo"><a href="{{ "#code" | relURL }}">Code</a></p>
+{{ end }}
+{{ with .GetPage "/sections/contact.md" }}
+<p class="contactinfo"><a href="{{ "#contact" | relURL }}">Contact</a></p>
+{{ end }}
+{{ with .GetPage "/sections/advising-teaching.md" }}
+<p class="contactinfo"><a href="{{ "#advising-teaching" | relURL }}">Advising and Teaching</a></p>
 {{ end }}
 {{ with .GetPage "/sections/personal.md" }}
 <p class="lastcontactinfo"><a href="{{ "#personal" | relURL }}">Personal</a></p>
