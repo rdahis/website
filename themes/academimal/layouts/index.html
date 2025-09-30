@@ -5,21 +5,6 @@
 {{ .Content }}
 {{ end }}
 
-{{ with .GetPage "/sections/contact.md" }}
-<hr>
-<h2 id="contact">Contact</h2>
-{{ .Content }}
-{{ end }}
-
-{{ with .GetPage "/sections/advising-teaching.md" }}
-<hr>
-<h2 id="advising-teaching">Advising and Teaching</h2>
-{{ .Content }}
-{{ end }}
-
-{{ $scratch := newScratch }}
-{{ $scratch.Set "pubcnt" 0 }}
-
 {{ with .Site.Data.working_papers }}
 <hr>
 <h2 id="working-papers">Working Papers</h2>
@@ -74,6 +59,21 @@
 {{ end }}
 {{ end }}
 {{ end }}
+
+{{ with .GetPage "/sections/contact.md" }}
+<hr>
+<h2 id="contact">Contact</h2>
+{{ .Content }}
+{{ end }}
+
+{{ with .GetPage "/sections/advising-teaching.md" }}
+<hr>
+<h2 id="advising-teaching">Advising and Teaching</h2>
+{{ .Content }}
+{{ end }}
+
+{{ $scratch := newScratch }}
+{{ $scratch.Set "pubcnt" 0 }}
 
 {{ with .GetPage "/sections/personal.md" }}
 <hr>
