@@ -5,6 +5,11 @@
 {{ .Content }}
 {{ end }}
 
+<h2 id="updates">Updates</h2>
+{{ with .GetPage "/sections/updates.md" }}
+{{ .Content }}
+{{ end }}
+
 {{ $scratch := newScratch }}
 {{ $scratch.Set "pubcnt" 0 }}
 
