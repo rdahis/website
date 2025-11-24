@@ -11,5 +11,3 @@ Schedule [**here**](https://koalendar.com/e/dahis-office-hours). -->
 
 __Open Door__ (for anyone):
 Schedule [**here**](https://calendar.google.com/calendar/appointments/schedules/AcZssZ3KXkIoKZNE471wpCXiyQgut1EiofDH3kROAo0d3EIr9hSxHMRc-uZsSmm3ZVLSHWmDwIVSpBra).
-
-[__Teaching Materials__](/teaching)
