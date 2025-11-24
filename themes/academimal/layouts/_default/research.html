@@ -1,0 +1,74 @@
+{{ define "main" -}}
+
+<h2>Research</h2>
+
+<div class="publications-container">
+  <!-- Search Bar -->
+  <!-- <div class="search-container">
+    <input type="text" id="publication-search" placeholder="Search by title, coauthor, or keyword..." class="search-input">
+  </div> -->
+
+  <!-- Tabs -->
+  <!-- <div class="tabs-container">
+    <button class="tab-button active" data-tab="all">All</button>
+    <button class="tab-button" data-tab="publications">Publications</button>
+    <button class="tab-button" data-tab="working-papers">Working Papers</button>
+    <button class="tab-button" data-tab="work-in-progress">Work in Progress</button>
+  </div> -->
+
+  {{ $scratch := newScratch }}
+  {{ $scratch.Set "pubcnt" 0 }}
+
+  <!-- All Publications Tab -->
+  <div class="tab-content active" id="tab-all">
+
+    <hr>
+    {{ with .Site.Data.working_papers }}
+    <h2 id="working-papers">Working Papers</h2>
+    {{ range . }}
+    {{ range .works }}
+    <div class="publication-item" data-type="working-papers">
+      {{ partial "publication.html" (dict "context" . "pid" ($scratch.Get "pubcnt")) }}
+      {{ $scratch.Add "pubcnt" 1 }}   
+    </div>
+    {{ end }}
+    {{ end }}
+    {{ end }}
+
+    <hr>
+    {{ with .Site.Data.publications }}
+    <h2 id="publications">Publications</h2>
+    {{ range . }}
+    {{ range .works }}
+    <div class="publication-item" data-type="publications">
+      {{ partial "publication.html" (dict "context" . "pid" ($scratch.Get "pubcnt")) }}
+      {{ $scratch.Add "pubcnt" 1 }}   
+    </div>
+    {{ end }}
+    {{ end }}
+    {{ end }}
+
+    <hr>
+    {{ with .Site.Data.work_in_progress }}
+    <h2 id="work-in-progress">Work in Progress</h2>
+    {{ range . }}
+    {{ range .works }}
+    <div class="publication-item" data-type="work-in-progress">
+      {{ partial "publication.html" (dict "context" . "pid" ($scratch.Get "pubcnt")) }}
+      {{ $scratch.Add "pubcnt" 1 }}   
+    </div>
+    {{ end }}
+    {{ end }}
+    {{ end }}
+  </div>
+
+  <!-- No results message -->
+  <div id="no-results" class="no-results" style="display: none;">
+    <p>No publications found matching your search.</p>
+  </div>
+</div>
+
+<script src="{{ "/js/publications.js" | relURL }}"></script>
+
+{{- end }}
+

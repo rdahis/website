@@ -1,0 +1,33 @@
+{{ define "main" -}}
+
+<h2>{{ .Title }}</h2>
+
+{{ $scratch := newScratch }}
+{{ $scratch.Set "pubcnt" 0 }}
+
+{{ if eq .Title "Other Writing" }}
+  {{ with .Site.Data.other_writing }}
+  {{ range . }}
+  {{ range .works }}
+  <div class="publication-item">
+    {{ partial "publication.html" (dict "context" . "pid" ($scratch.Get "pubcnt")) }}
+    {{ $scratch.Add "pubcnt" 1 }}   
+  </div>
+  {{ end }}
+  {{ end }}
+  {{ end }}
+{{ else if eq .Title "Code" }}
+  {{ with .Site.Data.code }}
+  {{ range . }}
+  {{ range .works }}
+  <div class="publication-item">
+    {{ partial "publication.html" (dict "context" . "pid" ($scratch.Get "pubcnt")) }}
+    {{ $scratch.Add "pubcnt" 1 }}   
+  </div>
+  {{ end }}
+  {{ end }}
+  {{ end }}
+{{ end }}
+
+{{- end }}
+
