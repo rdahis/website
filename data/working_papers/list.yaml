@@ -1,5 +1,26 @@
 works:
 
+- title: "Black-White Income Inequality During Jim Crow: Evidence from 'Passing' for White"
+  pdflink: "/papers/Dahis et al. - Black-White Income Inequality During Jim Crow.pdf"
+  coauthors:
+    - name: Ludovica Mosillo,
+      url: https://ludovicamosillo.github.io/
+    - name: Emily Nix,
+      url: https://sites.google.com/site/emilyenix/
+    - name: Nancy Qian
+      url: https://www.kellogg.northwestern.edu/faculty/qian/
+  #journal: Under Review
+  date: January 2026
+  talks:
+    - name: Economic History Association 2022
+  featured:
+    - url: https://open.spotify.com/episode/0QluGZdvuc5lFtt2ygnEtC?si=gSSl7uggTbqXu-LU3YvRSQ
+      name: The Weeds (40:45),
+    - url: https://insight.kellogg.northwestern.edu/article/jim-crow-era-discrimination-violence-black-men-passed-white
+      name: Kellogg Insight
+  abstract: >
+      This paper documents several new facts about racial discrimination from 1910-1940 in the United States. Exposure to racial discrimination was positively associated with some Black men taking on White identities, resulting in large income gains and economic mobility. However, this imposed high costs; beyond the loss of one's Black identity, passing for White was associated with higher separation rates from a person's community and family. Using the income gains from passing, we estimate that removing contemporaneous labor market discrimination would have increased the Black-to-White income ratio by at least 16 percentage points.
+
 - title: "Reelection Incentives and Corruption: Revisiting the Evidence with LLM-Classified Audit Reports"
   pdflink: "/papers/Dahis, Mattsson, Sales - Reelection Incentives and Corruption.pdf"
   coauthors:
@@ -43,27 +64,6 @@ works:
   date: July 2025
   abstract: >
       This study documents how electoral behavior changes based on the salience of national security threats. Leveraging novel data on siren timing and location in Israel, we estimate a difference-in-differences design that compares localities brought into rocket range just before the 2015 election with otherwise similar areas. While almost all rockets from that period were intercepted by the Iron Dome defense system, the analysis shows that Red Alerts on the days immediately before the election boosted Likud’s vote share by 2.6 percentage points, while earlier alerts had no effect. Polarization increases as the effects are larger where Likud support was already higher. Analysis of Google search data shows that alerts increased interest in security-related topics but not in politics or parties, consistent with a salience rather than ideological mechanism.
-
-- title: "Black-White Income Inequality During Jim Crow: Evidence from 'Passing' for White"
-  #pdflink: "/papers/DMNQ_2025.pdf"
-  coauthors:
-    - name: Ludovica Mosillo,
-      url: https://www.linkedin.com/in/ludovica-mosillo-a8b816130/
-    - name: Emily Nix,
-      url: https://sites.google.com/site/emilyenix/
-    - name: Nancy Qian
-      url: https://www.kellogg.northwestern.edu/faculty/qian/
-  #journal: Under Review
-  date: May 2025
-  talks:
-    - name: Economic History Association 2022
-  featured:
-    - url: https://open.spotify.com/episode/0QluGZdvuc5lFtt2ygnEtC?si=gSSl7uggTbqXu-LU3YvRSQ
-      name: The Weeds (40:45),
-    - url: https://insight.kellogg.northwestern.edu/article/jim-crow-era-discrimination-violence-black-men-passed-white
-      name: Kellogg Insight
-  abstract: >
-      This paper documents several new facts about racial discrimination from 1910-1940 in the United States. Exposure to racial discrimination was positively associated with some Black men taking on White identities, resulting in large income gains and economic mobility. However, this imposed high social costs; beyond the loss of one’s Black identity, passing for White was associated with higher separation rates from a person’s community and family. Using the income gains from passing, we estimate that removing contemporaneous labor market discrimination would have increased the Black-to-White income ratio by at least 16 percentage points.
 
 - title: "Speed of Payment in Procurement Contracts: The Role of Political Connections"
   pdflink: "/papers/Dahis, Ricca, Scot - Speed of Payment in Procurement Contracts.pdf"
