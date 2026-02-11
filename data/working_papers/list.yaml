@@ -36,24 +36,6 @@ works:
   abstract: >
       We extend Brazilian municipal corruption data using a Large Language Model (LLM) to analyze 2,197 audit reports, totaling 185,000 pages. LLM-generated measures correlate nearly as strongly with manual classifications as different manual classifications correlate with each other, highlighting both the relative reliability of the LLM classification and the inherent subjectivity involved in quantifying corruption from textual sources. Reexamining reelection incentives' role in limiting corruption, we find effects that are consistent with prior studies, but smaller and more precisely estimated, with statistical significance for only one of three corruption measures. We document substantial temporal heterogeneity in effects across electoral terms, with reelection incentives reducing corruption from 2003 to 2004, the period analyzed by the previous literature, and from 2013 to 2015, but not from 2005 to 2012. We explore potential explanations for this pattern, including politician composition changes and evolving legal enforcement patterns.
 
-- title: "Young Local Politicians and Deforestation in the Brazilian Amazon"
-  pdflink: "/papers/Dahis, de las Heras, Saavedra - Young Local Politicians and Deforestation in the Brazilian Amazon.pdf"
-  coauthors:
-    - name: Iván de las Heras,
-      url: https://x.com/ivanh16
-    - name: Santiago Saavedra
-      url: https://sites.google.com/view/santiago-saavedra
-  date: October 2025
-  talks:
-    - name: ICDE,
-    - name: ACU Political Economy Workshop
-  journal: Resubmitted at Journal of the Association of Environmental and Resource Economists (JAERE)
-  links:
-    - url: https://osf.io/preprints/socarxiv/h5tn2
-      text: SocArXiv
-  abstract: >
-      While deforestation may yield short-term economic gains, it has lasting impacts on climate change, biodiversity, and water systems. The age of political leaders is a key determinant of how these tradeoffs are managed. We study closely contested elections in Brazil and show that when a young politician is in power there is less deforestation (p-value 0.000), lower greenhouse gas emissions (p-value 0.061), but higher local income (p-value 0.023). Results are partly explained by young mayors turning over the bureaucracy with younger public servants (p-value 0.043).
-
 - title: "Echoes of Terrorism: How the Timing of Siren Alerts Shapes Voting"
   pdflink: "/papers/Bines, Dahis, Assuncao - Echoes of Terrorism.pdf"
   coauthors:
