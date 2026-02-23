@@ -7,7 +7,7 @@ works:
       url: https://x.com/ivanh16
     - name: Santiago Saavedra
       url: https://sites.google.com/view/santiago-saavedra
-  date: October 2025
+  #date: October 2025
   talks:
     - name: ICDE,
     - name: ACU Political Economy Workshop
@@ -28,7 +28,7 @@ works:
     - name: Lucas Nascimento,
     - name: Nathalia Sales
       url: https://www.linkedin.com/in/nmsales/
-  date: November 2025
+  #date: November 2025
   journal: Accepted at World Bank Economic Review (WBER)
   links:
     - url: https://municipal-budget-execution.github.io/mides/
@@ -46,7 +46,7 @@ works:
     - name: Christiane Szerman
       url: https://sites.google.com/view/cszerman/
   journal: Forthcoming at AEJ Applied Economics
-  date: May 2025
+  #date: May 2025
   talks:
     - name: EMCON 2017,
     - name: UCSD Human Nature Group,
@@ -94,8 +94,8 @@ works:
       url: https://www.lauraschiavon.com/
     - name: Thiago Scot
       url: https://sites.google.com/view/thiagoscot/
-  journal: Review of Economics and Statistics Volume 107 Issue 2
-  date: March 2025
+  journal: Review of Economics and Statistics, 2025, Volume 107, Issue 2
+  #date: March 2025
   talks:
     - name: SBE 2019,
     - name: SIOE 2020,
@@ -114,8 +114,8 @@ works:
   coauthors:
     - name: Diego Cardoso
       url: https://www.diegoscardoso.com/
-  journal: Economic Letters, Volume 237, April 2024, 111673
-  date: March 2024
+  journal: Economic Letters, 2024, Volume 237, 111673
+  #date: March 2024
   abstract: >
       Cost-benefit analyses in public health typically calculate the benefits of mortality reduction interventions by multiplying the Value of a Statistical Life (VSL) and the expected decrease in fatalities. This procedure approximates the benefits of small mortality changes but is inaccurate for large risk changes because it holds constant the VSL---an estimate of a marginal rate of substitution. Building on the theoretical framework of the VSL, we outline a practical approach to calculate the benefits of non-marginal mortality reductions with empirically-calibrated compensating variations. We derive closed-form expressions that are easy to calculate and only require widely-available mortality statistics.
 
@@ -132,8 +132,8 @@ works:
       url: https://iesp.uerj.br/pesquisador/rogerio-jeronimo-barbosa/
     - name: Daniel Travassos Ferreira
       url: https://history.uchicago.edu/directory/daniel-travassos-ferreira
-  journal: Electoral Studies, Volume 86, December 2023, 102690
-  date: September 2023
+  journal: Electoral Studies, 2023, Volume 86, 102690
+  #date: September 2023
     #- url: https://www1.folha.uol.com.br/cotidiano/2023/05/passe-livre-nas-eleicoes-nao-influenciou-comparecimento-as-urnas-diz-estudo.shtml
     #  text: Folha de São Paulo
   abstract: >
@@ -144,8 +144,8 @@ works:
   coauthors:
     - name: Arthur Bragança
       url: https://arthurbraganca.com/
-  journal: Journal of Public Economics, Volume 215, 104753
-  date: September 2022
+  journal: Journal of Public Economics, 2022, Volume 215, 104753
+  #date: September 2022
   talks:
     - name: Northwestern Applied Micro Lunch,
     - name: EDF,

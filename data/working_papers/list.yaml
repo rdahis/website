@@ -10,7 +10,7 @@ works:
     - name: Nancy Qian
       url: https://www.kellogg.northwestern.edu/faculty/qian/
   #journal: Under Review
-  date: January 2026
+  #date: January 2026
   talks:
     - name: Economic History Association 2022
   featured:
@@ -28,7 +28,7 @@ works:
       url: https://www.martin-mattsson.com
     - name: Nathalia Sales
       url: https://www.linkedin.com/in/nmsales/
-  date: November 2025
+  #date: November 2025
   talks:
     - name: MWZ Text-as-Data Workshop 2024
     - name: Australian Political Economy Network (APEN) 2025
@@ -43,7 +43,7 @@ works:
     - name: Juliano Assunção
       url: https://www.econ.puc-rio.br/juliano/
   journal: R&R at Economic Development and Cultural Change (EDCC)
-  date: July 2025
+  #date: July 2025
   abstract: >
       This study documents how electoral behavior changes based on the salience of national security threats. Leveraging novel data on siren timing and location in Israel, we estimate a difference-in-differences design that compares localities brought into rocket range just before the 2015 election with otherwise similar areas. While almost all rockets from that period were intercepted by the Iron Dome defense system, the analysis shows that Red Alerts on the days immediately before the election boosted Likud’s vote share by 2.6 percentage points, while earlier alerts had no effect. Polarization increases as the effects are larger where Likud support was already higher. Analysis of Google search data shows that alerts increased interest in security-related topics but not in politics or parties, consistent with a salience rather than ideological mechanism.
 
@@ -54,7 +54,7 @@ works:
       url: https://bernardoricca.wixsite.com/bricca
     - name: Thiago Scot
       url: https://sites.google.com/view/thiagoscot/
-  date: April 2025
+  #date: April 2025
   journal: R&R at Journal of Law, Economics, and Organization (JLEO)
   links:
     - url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3934021
@@ -69,7 +69,7 @@ works:
       url: https://github.com/jpgmv1998
     - name: Juliano Assunção
       url: https://www.econ.puc-rio.br/juliano/
-  date: August 2023
+  #date: August 2023
   talks:
     - name: Universidad de Los Andes,
     - name: Universidad del Chile,
@@ -90,7 +90,7 @@ works:
     - name: Lisa Ho
       url: https://www.linkedin.com/in/lisayzho
   #journal: Under Review
-  date: April 2021
+  #date: April 2021
   links:
   abstract: >
       What is the impact of mobile broadband internet on children's test scores? We compare standardized test scores before and after the staggered entry of 3G into Brazil's 5,570 municipalities using a heterogeneity-robust event-study design. We find no effects of mobile internet on test scores for 5th or 9th grade students, and can reject effect sizes of 0.04 standard deviations in both math and Portuguese. Taken together, our results indicate that the arrival of high-speed mobile internet is not suf- ficient to improve educational outcomes either through direct take-up by individuals or through broader changes to the economy.
