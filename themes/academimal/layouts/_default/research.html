@@ -61,10 +61,11 @@
     {{ end }}
     {{ end }}
 
+    {{ $dormant := .Site.Data.dormant_working_papers }}
+    {{ if and $dormant $dormant.works (gt (len $dormant.works) 0) }}
     <hr>
-    {{ with .Site.Data.dormant_working_papers }}
     <h2 id="dormant-working-papers">Dormant working papers</h2>
-    {{ range . }}
+    {{ range $dormant }}
     {{ range .works }}
     <div class="publication-item" data-type="dormant-working-papers">
       {{ partial "publication.html" (dict "context" . "pid" ($scratch.Get "pubcnt")) }}

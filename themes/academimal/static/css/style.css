@@ -331,6 +331,9 @@ table {
   width: 100%;
   border-collapse: collapse; }
 
+.students-table {
+  font-size: 1em; }
+
 th, td {
   text-align: left;
   padding: 5px 10px;

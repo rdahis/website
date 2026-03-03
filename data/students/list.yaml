@@ -1,0 +1,125 @@
+students:
+
+# PUC-Rio students
+
+- name: "João Pedro Vieira"
+  degree: Masters
+  institution: "PUC-Rio"
+  main_supervisor: true
+  year_graduation: 2022
+  first_placement: "Stone Co."
+  website: "https://www.linkedin.com/in/jpgmv/"
+
+- name: "Maria Mittelbach"
+  degree: Masters
+  institution: "PUC-Rio"
+  main_supervisor: true
+  year_graduation: 2023
+  first_placement: "PhD student at Boston University"
+  website: "https://mmittelbach.github.io/"
+
+- name: "Wallace Inocêncio"
+  degree: Masters
+  institution: "PUC-Rio"
+  main_supervisor: true
+  year_graduation: 2023
+  first_placement: "PhD student at LSE"
+  website: "https://www.lse.ac.uk/people/wallace-de-jesus-inocencio"
+
+- name: "Bernardo Duque"
+  degree: Masters
+  institution: "PUC-Rio"
+  main_supervisor: false
+  year_graduation: 2024
+  first_placement: "PhD student at Brown University"
+  website: "https://www.linkedin.com/in/bernardo-duque-a0ba07180/"
+
+- name: "Luiz Bines"
+  degree: Masters
+  institution: "PUC-Rio"
+  main_supervisor: true
+  year_graduation: 2024
+  first_placement: "PhD student at Barcelona School of Economics"
+  #website: ""
+
+- name: "Nathalia Sales"
+  degree: PhD
+  institution: "PUC-Rio"
+  main_supervisor: true
+  year_graduation: 2024
+  first_placement: "Lecturer at PUC-Rio"
+  website: "https://www.linkedin.com/in/nmsales/"
+
+- name: "Julia Soihet Martins"
+  degree: PhD
+  institution: "PUC-Rio"
+  main_supervisor: true
+  year_graduation: 2024
+  first_placement: "MacroPlan"
+  website: "https://www.linkedin.com/in/julia-soihet-martins/"
+
+- name: "Mateus Mallman"
+  degree: PhD
+  institution: "PUC-Rio"
+  main_supervisor: false
+  year_graduation: 2024
+  #first_placement: "PhD student at Columbia University"
+  website: "https://www.linkedin.com/in/mateus-mallmann-87baa1135/"
+
+# Monash University students
+
+- name: "Tarannum Baigh"
+  degree: PhD
+  institution: "Monash University"
+  main_supervisor: true
+  #year_graduation: 2025
+  #first_placement: 
+  website: "https://sites.google.com/monash.edu/tarannumbaigh/home"
+
+- name: "Moon Kang"
+  degree: PhD
+  institution: "Monash University"
+  main_supervisor: true
+  #year_graduation: 
+  #first_placement: 
+  #website: 
+
+- name: "Tze Yong Tan"
+  degree: PhD
+  institution: "Monash University"
+  main_supervisor: false
+  #year_graduation: 2025
+  #first_placement: 
+  website: "https://tzeyongtan.github.io/"
+
+- name: "Faye Khammo"
+  degree: PhD
+  institution: "Monash University"
+  main_supervisor: true
+  #year_graduation: 
+  #first_placement: 
+  #website: 
+
+- name: "Thomas Pover"
+  degree: PhD
+  institution: "Monash University"
+  main_supervisor: false
+  #year_graduation: 
+  #first_placement: 
+  #website: 
+
+- name: "Kris Coutts"
+  degree: "Honours"
+  institution: "Monash University"
+  main_supervisor: true
+  year_graduation: 2025
+  #first_placement: 
+  website: "https://www.linkedin.com/in/kris-coutts-077663354/"
+
+- name: "Philip McKay"
+  degree: "Honours"
+  institution: "Monash University"
+  main_supervisor: true
+  year_graduation: 2024
+  first_placement: "Department for Energy and Mining, South Australia"
+  website: "https://www.linkedin.com/in/philip-mackay01/"

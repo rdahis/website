@@ -1,0 +1,56 @@
+{{ define "main" -}}
+
+<h2>Students</h2>
+
+<p>Current and past students I have supervised.</p>
+
+{{ $students := .Site.Data.students.list.students }}
+{{ if $students }}
+{{ $current := where $students "year_graduation" "eq" nil }}
+{{ $graduated := where $students "year_graduation" "ne" nil }}
+
+{{ if $current }}
+<h3>Current</h3>
+<table class="students-table">
+  <thead>
+    <tr><th>Name</th><th>Degree</th><th>Institution</th><th>Role</th></tr>
+  </thead>
+  <tbody>
+  {{ range sort $current "name" }}
+  <tr>
+    <td>{{ if .website }}<a href="{{ .website }}">{{ .name }}</a>{{ else }}{{ .name }}{{ end }}</td>
+    <td>{{ .degree }}</td>
+    <td>{{ .institution }}</td>
+    <td>{{ if .main_supervisor }}Main supervisor{{ else }}Co-supervisor{{ end }}</td>
+  </tr>
+  {{ end }}
+  </tbody>
+</table>
+{{ end }}
+
+{{ if $graduated }}
+<h3>Past</h3>
+<table class="students-table">
+  <thead>
+    <tr><th>Name</th><th>Degree</th><th>Institution</th><th>Role</th><th>Year</th><th>First placement</th></tr>
+  </thead>
+  <tbody>
+  {{ range sort $graduated "year_graduation" "desc" }}
+  <tr>
+    <td>{{ if .website }}<a href="{{ .website }}">{{ .name }}</a>{{ else }}{{ .name }}{{ end }}</td>
+    <td>{{ .degree }}</td>
+    <td>{{ .institution }}</td>
+    <td>{{ if .main_supervisor }}Main supervisor{{ else }}Co-supervisor{{ end }}</td>
+    <td>{{ .year_graduation }}</td>
+    <td>{{ .first_placement | default "—" }}</td>
+  </tr>
+  {{ end }}
+  </tbody>
+</table>
+{{ end }}
+
+{{ else }}
+<p>No students listed yet.</p>
+{{ end }}
+
+{{- end }}
