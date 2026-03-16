@@ -71,7 +71,7 @@ students:
 - name: "Tarannum Baigh"
   degree: PhD
   institution: "Monash University"
-  main_supervisor: true
+  main_supervisor: false
   #year_graduation: 2025
   #first_placement: 
   website: "https://sites.google.com/monash.edu/tarannumbaigh/home"
@@ -104,6 +104,14 @@ students:
   degree: PhD
   institution: "Monash University"
   main_supervisor: false
+  #year_graduation: 
+  #first_placement: 
+  #website: 
+
+- name: "Shuhang Liu"
+  degree: PhD
+  institution: "Monash University"
+  main_supervisor: true
   #year_graduation: 
   #first_placement: 
   #website: 
