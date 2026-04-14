@@ -6,6 +6,9 @@
 <p class="contactinfo"><a href="{{ "/other-writing/" | relURL }}">Other Writing</a></p>
 {{ end }}
 <p class="contactinfo"><a href="{{ "/teaching/" | relURL }}">Teaching</a></p>
+{{ with .Site.Data.research_unit_tests }}
+<p class="contactinfo"><a href="{{ "/research-unit-tests/" | relURL }}">Research Unit Tests</a></p>
+{{ end }}
 {{ with .Site.Data.code }}
 <p class="lastcontactinfo"><a href="{{ "/code/" | relURL }}">Code</a></p>
 {{ end }}

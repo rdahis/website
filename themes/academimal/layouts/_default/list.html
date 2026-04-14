@@ -22,7 +22,18 @@
   {{ range .works }}
   <div class="publication-item">
     {{ partial "publication.html" (dict "context" . "pid" ($scratch.Get "pubcnt")) }}
-    {{ $scratch.Add "pubcnt" 1 }}   
+    {{ $scratch.Add "pubcnt" 1 }}
+  </div>
+  {{ end }}
+  {{ end }}
+  {{ end }}
+{{ else if eq .Title "Research Unit Tests" }}
+  {{ with .Site.Data.research_unit_tests }}
+  {{ range . }}
+  {{ range .works }}
+  <div class="publication-item">
+    {{ partial "publication.html" (dict "context" . "pid" ($scratch.Get "pubcnt")) }}
+    {{ $scratch.Add "pubcnt" 1 }}
   </div>
   {{ end }}
   {{ end }}

@@ -1,0 +1,9 @@
+works:
+
+- title: "Research Unit Tests"
+  note: "A library of structured quality checks for academic papers — analogous to unit tests in software engineering. Tests range from deterministic checks (does the replication package run?) to judgment calls (is the contribution interesting?), organized by methodology and designed for AI agents. Open source; community contributions welcome."
+  links:
+    - url: https://www.ricardodahis.com/research-unit-tests/
+      text: Website
+    - url: https://github.com/rdahis/research-unit-tests
+      text: GitHub
