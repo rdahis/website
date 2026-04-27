@@ -38,12 +38,12 @@ works:
 #    - name: Tarannum Baigh
 #      url: 
 
-- title: "Promotions, Performance, and Diversity in the Brazilian Judiciary"
-  coauthors:
-    - name: Laura Schiavon,
-      url: https://www.lauraschiavon.com/
-    - name: Leopoldo Gutierre
-      url: https://economics.ubc.ca/profile/leopoldo-gutierre/
+#- title: "Promotions, Performance, and Diversity in the Brazilian Judiciary"
+#  coauthors:
+#    - name: Laura Schiavon,
+#      url: https://www.lauraschiavon.com/
+#    - name: Leopoldo Gutierre
+#      url: https://economics.ubc.ca/profile/leopoldo-gutierre/
 
 - title: "Improving labor market matching through soft skills development in technical education"
   coauthors:
@@ -59,10 +59,10 @@ works:
 #     - name: Lei Li
 #       url: https://lei-li-economics.weebly.com/
 
-- title: "Killing the Forest: Assassinations and Deforestation in Brazil"
-  coauthors:
-    - name: Mariana Carvalho
-      url: https://www.maricarvalho.com
+#- title: "Killing the Forest: Assassinations and Deforestation in Brazil"
+#  coauthors:
+#    - name: Mariana Carvalho
+#      url: https://www.maricarvalho.com
 
 #- title: "Administrative Remoteness and Deforestation: Evidence from the Brazilian Amazon"
 #  coauthors:
