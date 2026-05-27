@@ -1,13 +1,12 @@
 works:
 
 - title: "Young Local Politicians and Deforestation in the Brazilian Amazon"
-  pdflink: "/papers/Dahis, de las Heras, Saavedra - Young Local Politicians and Deforestation in the Brazilian Amazon.pdf"
+  pdflink: https://doi.org/10.1086/741559
   coauthors:
     - name: Iván de las Heras,
       url: https://x.com/ivanh16
     - name: Santiago Saavedra
       url: https://sites.google.com/view/santiago-saavedra
-  #date: October 2025
   talks:
     - name: ICDE,
     - name: ACU Political Economy Workshop
@@ -15,6 +14,9 @@ works:
   links:
     - url: https://osf.io/preprints/socarxiv/h5tn2
       text: SocArXiv
+  featured:
+    - url: https://voxdev.org/topic/energy-environment/can-electing-younger-mayors-help-protect-amazon-rainforest
+      name: VoxDev
   abstract: >
       While deforestation may yield short-term economic gains, it has lasting impacts on climate change, biodiversity, and water systems. The age of political leaders is a key determinant of how these tradeoffs are managed. We study closely contested elections in Brazil and show that when a young politician is in power there is less deforestation (p-value 0.000), lower greenhouse gas emissions (p-value 0.061), but higher local income (p-value 0.023). Results are partly explained by young mayors turning over the bureaucracy with younger public servants (p-value 0.043).
 
