@@ -14,7 +14,7 @@ works:
   links:
     - url: https://osf.io/preprints/socarxiv/h5tn2
       text: SocArXiv
-  featured:
+  media:
     - url: https://voxdev.org/topic/energy-environment/can-electing-younger-mayors-help-protect-amazon-rainforest
       name: VoxDev
   abstract: >
@@ -38,8 +38,8 @@ works:
       text: World Bank Policy Research working paper WPS 10598
     - url: https://basedosdados.org/dataset/d3874769-bcbd-4ece-a38a-157ba1021514
       text: Dataset at Data Basis (Base dos Dados)
-  featured:
-    - name: "LACademia Best Innovative Policy Database Award by the World Bank"
+  awards:
+    - name: LACademia Best Innovative Policy Database Award by the World Bank
   abstract: >
       This paper introduces a new disaggregated and harmonized dataset on public procurement and budget execution by Brazilian subnational entities, which covers half of Brazilian municipalities and spans the years 2003-21. This dataset provides key information that was previously unavailable from aggregate data, such as the identities of suppliers, details on purchases of goods and services, and granular information on the life cycle of each expenditure action. It then uses these data to provide new stylized facts about local public finance. First, it shows that about one-quarter of government purchases are locally procured and discusses implications for efficiency. Second, it demonstrates that close to 15 percent of payments exceed the 30-day threshold and that payment timeliness is systematically correlated with the income level of the municipality. Finally, it shows that municipalities where mayors have reelection incentives systematically employ more non-competitive tenders and buy more from local suppliers.
 
@@ -84,9 +84,9 @@ works:
     - name: NYU,
     - name: Johns Hopkins University,
     - name: STEG Annual Conference NYU-AD
-  featured:
-    - url: "https://www.bbc.com/portuguese/brasil-50402258"
-      name: "BBC Brasil"
+  media:
+    - url: https://www.bbc.com/portuguese/brasil-50402258
+      name: BBC Brasil
   abstract: >
       Changes in political boundaries aimed at devolving power to local governments are common in many countries. We examine the economic consequences of redistricting through the creation of smaller government units. Exploiting reforms that led to sharp variations in the number of government units in Brazil, we show that voluntary redistricting increases the size of the public sector, public services delivery, and economic activity in new local governments over the long-term. These benefits are not offset by losses elsewhere and are stronger in peripheral and remote backward areas that are neglected by their parent governments. We provide evidence that the decentralization of decision-making power boosts local development in disadvantaged areas beyond simply gains in fiscal revenues.
 
@@ -106,9 +106,9 @@ works:
     - name: USP
     - name: NEUDC 2021,
     - name: EESP
-  # links:
-  #   - url: https://www1.folha.uol.com.br/colunas/bernardo-guimaraes/2023/06/notas-de-juizes-em-concursos-tem-relacao-com-desempenho-no-trabalho.shtml
-  #     text: Folha de São Paulo
+  media:
+    - url: https://www1.folha.uol.com.br/colunas/bernardo-guimaraes/2023/06/notas-de-juizes-em-concursos-tem-relacao-com-desempenho-no-trabalho.shtml
+      name: Folha de São Paulo
   abstract: >
       In the absence of strong incentives, public service delivery crucially depends on bureaucrat selection. Despite wide adoption by governments, it is unclear whether civil service examinations reliably select for job performance. We investigate this question focusing on state judges in Brazil. Exploring monthly data on judicial output and cross-court movement, we estimate that judges account for at least 23% of the observed variation in number of cases disposed. With novel data on admission examinations, we show that judges with higher grades perform better than lower-ranked peers. Our results suggest competitive examinations can be an effective way to screen candidates.
 
