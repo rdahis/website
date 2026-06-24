@@ -13,8 +13,12 @@
 {{ end }}
 -->
 
-{{ with .context.featured }}
-<p style="margin:0 0 5px;">Featured at: {{ range . }}<a href="{{ .url }}" target="blank">{{ .name }} </a>{{ end }}</p>
+{{ with .context.awards }}
+<p style="margin:0 0 5px;">Awards: {{ range $i, $a := . }}{{ if $i }}; {{ end }}{{ if $a.url }}<a href="{{ $a.url }}" target="blank">{{ $a.name }}</a>{{ else }}{{ $a.name }}{{ end }}{{ end }}</p>
+{{ end }}
+
+{{ with .context.media }}
+<p style="margin:0 0 5px;">Media: {{ range . }}<a href="{{ .url }}" target="blank">{{ .name }} </a>{{ end }}</p>
 {{ end }}
 
 {{ with .context.note }}<p style="margin:0 0 5px;">{{ . }}</p>{{ end }}
