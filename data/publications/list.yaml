@@ -44,12 +44,11 @@ works:
       This paper introduces a new disaggregated and harmonized dataset on public procurement and budget execution by Brazilian subnational entities, which covers half of Brazilian municipalities and spans the years 2003-21. This dataset provides key information that was previously unavailable from aggregate data, such as the identities of suppliers, details on purchases of goods and services, and granular information on the life cycle of each expenditure action. It then uses these data to provide new stylized facts about local public finance. First, it shows that about one-quarter of government purchases are locally procured and discusses implications for efficiency. Second, it demonstrates that close to 15 percent of payments exceed the 30-day threshold and that payment timeliness is systematically correlated with the income level of the municipality. Finally, it shows that municipalities where mayors have reelection incentives systematically employ more non-competitive tenders and buy more from local suppliers.
 
 - title: "Decentralizing Development: The Economic Impact of Government Splits"
-  pdflink: "/papers/Dahis and Szerman - Decentralizing Development.pdf"
+  pdflink: https://doi.org/10.1257/app.20240009
   coauthors:
     - name: Christiane Szerman
       url: https://sites.google.com/view/cszerman/
-  journal: Forthcoming at AEJ Applied Economics
-  #date: May 2025
+  journal: American Economic Journal Applied Economics, 2026, Volumn 18, Number 3, Pages 220-253
   talks:
     - name: EMCON 2017,
     - name: UCSD Human Nature Group,
