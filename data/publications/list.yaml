@@ -10,7 +10,7 @@ works:
   talks:
     - name: ICDE,
     - name: ACU Political Economy Workshop
-  journal: Accepted at Journal of the Association of Environmental and Resource Economists (JAERE)
+  journal: Journal of the Association of Environmental and Resource Economists (JAERE), Volumn 13, Number 5, September 2026
   links:
     - url: https://osf.io/preprints/socarxiv/h5tn2
       text: SocArXiv
@@ -20,35 +20,12 @@ works:
   abstract: >
       While deforestation may yield short-term economic gains, it has lasting impacts on climate change, biodiversity, and water systems. The age of political leaders is a key determinant of how these tradeoffs are managed. We study closely contested elections in Brazil and show that when a young politician is in power there is less deforestation (p-value 0.000), lower greenhouse gas emissions (p-value 0.061), but higher local income (p-value 0.023). Results are partly explained by young mayors turning over the bureaucracy with younger public servants (p-value 0.043).
 
-- title: "Fiscal Capacity and Execution at the Local Level: New Evidence from Brazil" # MiDES: New Data and Facts from Public Procurement and Budget Execution in Brazil
-  pdflink: https://doi.org/10.1093/wber/lhag006
-  coauthors:
-    - name: Thiago Scot,
-      url: https://sites.google.com/view/thiagoscot/
-    - name: Bernardo Ricca,
-      url: https://bernardoricca.wixsite.com/bricca
-    - name: Lucas Nascimento,
-    - name: Nathalia Sales
-      url: https://www.linkedin.com/in/nmsales/
-  journal: World Bank Economic Review, 2026
-  links:
-    - url: https://municipal-budget-execution.github.io/mides/
-      text: Project's website
-    - url: https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099456511072320917/idu0577a4ea10ff8504db6089400548fa91b30a3
-      text: World Bank Policy Research working paper WPS 10598
-    - url: https://basedosdados.org/dataset/d3874769-bcbd-4ece-a38a-157ba1021514
-      text: Dataset at Data Basis (Base dos Dados)
-  awards:
-    - name: LACademia Best Innovative Policy Database Award by the World Bank
-  abstract: >
-      This paper introduces a new disaggregated and harmonized dataset on public procurement and budget execution by Brazilian subnational entities, which covers half of Brazilian municipalities and spans the years 2003-21. This dataset provides key information that was previously unavailable from aggregate data, such as the identities of suppliers, details on purchases of goods and services, and granular information on the life cycle of each expenditure action. It then uses these data to provide new stylized facts about local public finance. First, it shows that about one-quarter of government purchases are locally procured and discusses implications for efficiency. Second, it demonstrates that close to 15 percent of payments exceed the 30-day threshold and that payment timeliness is systematically correlated with the income level of the municipality. Finally, it shows that municipalities where mayors have reelection incentives systematically employ more non-competitive tenders and buy more from local suppliers.
-
 - title: "Decentralizing Development: The Economic Impact of Government Splits"
   pdflink: https://doi.org/10.1257/app.20240009
   coauthors:
     - name: Christiane Szerman
       url: https://sites.google.com/view/cszerman/
-  journal: American Economic Journal Applied Economics, 2026, Volumn 18, Number 3, Pages 220-253
+  journal: American Economic Journal Applied Economics, July 2026, Volumn 18, Number 3, Pages 220-253
   talks:
     - name: EMCON 2017,
     - name: UCSD Human Nature Group,
@@ -89,6 +66,29 @@ works:
   abstract: >
       Changes in political boundaries aimed at devolving power to local governments are common in many countries. We examine the economic consequences of redistricting through the creation of smaller government units. Exploiting reforms that led to sharp variations in the number of government units in Brazil, we show that voluntary redistricting increases the size of the public sector, public services delivery, and economic activity in new local governments over the long-term. These benefits are not offset by losses elsewhere and are stronger in peripheral and remote backward areas that are neglected by their parent governments. We provide evidence that the decentralization of decision-making power boosts local development in disadvantaged areas beyond simply gains in fiscal revenues.
 
+- title: "Fiscal Capacity and Execution at the Local Level: New Evidence from Brazil" # MiDES: New Data and Facts from Public Procurement and Budget Execution in Brazil
+  pdflink: https://doi.org/10.1093/wber/lhag006
+  coauthors:
+    - name: Thiago Scot,
+      url: https://sites.google.com/view/thiagoscot/
+    - name: Bernardo Ricca,
+      url: https://bernardoricca.wixsite.com/bricca
+    - name: Lucas Nascimento,
+    - name: Nathalia Sales
+      url: https://www.linkedin.com/in/nmsales/
+  journal: World Bank Economic Review, March 2026
+  links:
+    - url: https://municipal-budget-execution.github.io/mides/
+      text: Project's website
+    - url: https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099456511072320917/idu0577a4ea10ff8504db6089400548fa91b30a3
+      text: World Bank Policy Research working paper WPS 10598
+    - url: https://basedosdados.org/dataset/d3874769-bcbd-4ece-a38a-157ba1021514
+      text: Dataset at Data Basis (Base dos Dados)
+  awards:
+    - name: LACademia Best Innovative Policy Database Award by the World Bank
+  abstract: >
+      This paper introduces a new disaggregated and harmonized dataset on public procurement and budget execution by Brazilian subnational entities, which covers half of Brazilian municipalities and spans the years 2003-21. This dataset provides key information that was previously unavailable from aggregate data, such as the identities of suppliers, details on purchases of goods and services, and granular information on the life cycle of each expenditure action. It then uses these data to provide new stylized facts about local public finance. First, it shows that about one-quarter of government purchases are locally procured and discusses implications for efficiency. Second, it demonstrates that close to 15 percent of payments exceed the 30-day threshold and that payment timeliness is systematically correlated with the income level of the municipality. Finally, it shows that municipalities where mayors have reelection incentives systematically employ more non-competitive tenders and buy more from local suppliers.
+
 - title: "Selecting Top Bureaucrats: Admission Exams and Performance in Brazil"
   pdflink: https://doi.org/10.1162/rest_a_01311
   coauthors:
@@ -96,7 +96,7 @@ works:
       url: https://www.lauraschiavon.com/
     - name: Thiago Scot
       url: https://sites.google.com/view/thiagoscot/
-  journal: Review of Economics and Statistics, 2025, Volume 107, Issue 2
+  journal: Review of Economics and Statistics, March 2025, Volume 107, Issue 2
   #date: March 2025
   talks:
     - name: SBE 2019,
