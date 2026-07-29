@@ -45,16 +45,6 @@ works:
   abstract: >
       We extend Brazilian municipal corruption data using a Large Language Model (LLM) to analyze 2,197 audit reports, totaling 185,000 pages. LLM-generated measures correlate nearly as strongly with manual classifications as different manual classifications correlate with each other, highlighting both the relative reliability of the LLM classification and the inherent subjectivity involved in quantifying corruption from textual sources. Reexamining reelection incentives' role in limiting corruption, we find effects that are consistent with prior studies, but smaller and more precisely estimated, with statistical significance for only one of three corruption measures. We document substantial temporal heterogeneity in effects across electoral terms, with reelection incentives reducing corruption from 2003 to 2004, the period analyzed by the previous literature, and from 2013 to 2015, but not from 2005 to 2012. We explore potential explanations for this pattern, including politician composition changes and evolving legal enforcement patterns.
 
-- title: "Echoes of Terrorism: How the Timing of Siren Alerts Shapes Voting"
-  pdflink: "/papers/Bines, Dahis, Assuncao - Echoes of Terrorism.pdf"
-  coauthors:
-    - name: Luiz Bines,
-    - name: Juliano Assunção
-      url: https://www.econ.puc-rio.br/juliano/
-  journal: Conditionally Accepted at Economic Development and Cultural Change (EDCC)
-  abstract: >
-      This study documents how electoral behavior changes based on the salience of national security threats. Leveraging novel data on siren timing and location in Israel, we estimate a difference-in-differences design that compares localities brought into rocket range just before the 2015 election with otherwise similar areas. While almost all rockets from that period were intercepted by the Iron Dome defense system, the analysis shows that Red Alerts on the days immediately before the election boosted Likud’s vote share by 2.6 percentage points, while earlier alerts had no effect. Polarization increases as the effects are larger where Likud support was already higher. Analysis of Google search data shows that alerts increased interest in security-related topics but not in politics or parties, consistent with a salience rather than ideological mechanism.
-
 - title: "Speed of Payment in Procurement Contracts: The Role of Political Connections"
   pdflink: "/papers/Dahis, Ricca, Scot - Speed of Payment in Procurement Contracts.pdf"
   coauthors:
