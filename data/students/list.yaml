@@ -84,6 +84,14 @@ students:
   #first_placement: 
   #website: 
 
+- name: "Sharmi Sen"
+  degree: PhD
+  institution: "Monash University"
+  main_supervisor: false
+  #year_graduation: 
+  #first_placement: 
+  #website: 
+
 - name: "Tze Yong Tan"
   degree: PhD
   institution: "Monash University"
