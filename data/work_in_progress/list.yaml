@@ -67,14 +67,23 @@ works:
 #    - name: Leopoldo Gutierre
 #      url: https://economics.ubc.ca/profile/leopoldo-gutierre/
 
-- title: "Improving labor market matching through soft skills development in technical education"
+- title: "Human Capital as Insurance: Skill Portfolio Choices under Occupational Uncertainty"
   coauthors:
     - name: Emily Beam,
       url: https://sites.google.com/site/eabeam
-    - name: Laia Navarro-Sola,
-      url: https://www.laianavarrosola.com/
-    - name: Ursula Mello
+    - name: Ursula Mello,
       url: https://sites.google.com/view/ursulamello/home
+    - name: Laia Navarro-Sola
+      url: https://www.laianavarrosola.com/
+
+- title: "Demand for Soft Skills in Industrial Occupations: Evidence from Blue-Collar Positions in Brazil"
+  coauthors:
+    - name: Emily Beam,
+      url: https://sites.google.com/site/eabeam
+    - name: Ursula Mello,
+      url: https://sites.google.com/view/ursulamello/home
+    - name: Laia Navarro-Sola
+      url: https://www.laianavarrosola.com/
 
 # - title: "Export-Induced Deforestation and Political Change: The Unintended Consequences of the Rise of China"
 #   coauthors:
